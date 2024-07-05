@@ -1,0 +1,3399 @@
+
+
+number: 6
+should be: 27
+but is: 26 (26.698484802)
+diff: +1
+triangularNumber: 21
+non-rounded: 29.698484802
+
+number: 8
+should be: 47
+but is: 46 (46.911688232)
+diff: +1
+triangularNumber: 36
+non-rounded: 50.911688232
+
+number: 10
+should be: 73
+but is: 72 (72.781745910)
+diff: +1
+triangularNumber: 55
+non-rounded: 77.781745910
+
+number: 18
+should be: 233
+but is: 232 (232.830519102)
+diff: +1
+triangularNumber: 171
+non-rounded: 241.830519102
+
+number: 20
+should be: 287
+but is: 286 (286.984848020)
+diff: +1
+triangularNumber: 210
+non-rounded: 296.984848020
+
+number: 22
+should be: 347
+but is: 346 (346.796031186)
+diff: +1
+triangularNumber: 253
+non-rounded: 357.796031186
+
+number: 30
+should be: 643
+but is: 642 (642.609306330)
+diff: +1
+triangularNumber: 465
+non-rounded: 657.609306330
+
+number: 32
+should be: 731
+but is: 730 (730.704760736)
+diff: +1
+triangularNumber: 528
+non-rounded: 746.704760736
+
+number: 34
+should be: 825
+but is: 824 (824.457069390)
+diff: +1
+triangularNumber: 595
+non-rounded: 841.457069390
+
+number: 35
+should be: 874
+but is: 873 (873.954544060)
+diff: +1
+triangularNumber: 630
+non-rounded: 890.954544060
+
+number: 36
+should be: 924
+but is: 923 (923.866232292)
+diff: +1
+triangularNumber: 666
+non-rounded: 941.866232292
+
+number: 38
+should be: 1029
+but is: 1028 (1028.932249442)
+diff: +1
+triangularNumber: 741
+non-rounded: 1047.932249442
+
+number: 40
+should be: 1140
+but is: 1139 (1139.655120840)
+diff: +1
+triangularNumber: 820
+non-rounded: 1159.655120840
+
+number: 46
+should be: 1506
+but is: 1505 (1505.764860522)
+diff: +1
+triangularNumber: 1081
+non-rounded: 1528.764860522
+
+number: 52
+should be: 1923
+but is: 1922 (1922.786288436)
+diff: +1
+triangularNumber: 1378
+non-rounded: 1948.786288436
+
+number: 58
+should be: 2391
+but is: 2390 (2390.719404582)
+diff: +1
+triangularNumber: 1711
+non-rounded: 2419.719404582
+
+number: 62
+should be: 2731
+but is: 2730 (2730.959086586)
+diff: +1
+triangularNumber: 1953
+non-rounded: 2761.959086586
+
+number: 64
+should be: 2910
+but is: 2909 (2909.564208960)
+diff: +1
+triangularNumber: 2080
+non-rounded: 2941.564208960
+
+number: 66
+should be: 3094
+but is: 3093 (3093.826185582)
+diff: +1
+triangularNumber: 2211
+non-rounded: 3126.826185582
+
+number: 68
+should be: 3284
+but is: 3283 (3283.745016452)
+diff: +1
+triangularNumber: 2346
+non-rounded: 3317.745016452
+
+number: 76
+should be: 4100
+but is: 4099 (4099.988882412)
+diff: +1
+triangularNumber: 2926
+non-rounded: 4137.988882412
+
+number: 100
+should be: 7092
+but is: 7091 (7091.778488100)
+diff: +1
+triangularNumber: 5050
+non-rounded: 7141.778488100
+
+number: 102
+should be: 7378
+but is: 7377 (7377.863841186)
+diff: +1
+triangularNumber: 5253
+non-rounded: 7428.863841186
+
+number: 104
+should be: 7670
+but is: 7669 (7669.606048520)
+diff: +1
+triangularNumber: 5460
+non-rounded: 7721.606048520
+
+number: 110
+should be: 8579
+but is: 8578 (8578.773796010)
+diff: +1
+triangularNumber: 6105
+non-rounded: 8633.773796010
+
+number: 116
+should be: 9539
+but is: 9538 (9538.853231732)
+diff: +1
+triangularNumber: 6786
+non-rounded: 9596.853231732
+
+number: 122
+should be: 10550
+but is: 10549 (10549.844355686)
+diff: +1
+triangularNumber: 7503
+non-rounded: 10610.844355686
+
+number: 128
+should be: 11612
+but is: 11611 (11611.747167872)
+diff: +1
+triangularNumber: 8256
+non-rounded: 11675.747167872
+
+number: 132
+should be: 12348
+but is: 12347 (12347.966647236)
+diff: +1
+triangularNumber: 8778
+non-rounded: 12413.966647236
+
+number: 134
+should be: 12725
+but is: 12724 (12724.561668290)
+diff: +1
+triangularNumber: 9045
+non-rounded: 12791.561668290
+
+number: 136
+should be: 13107
+but is: 13106 (13106.813543592)
+diff: +1
+triangularNumber: 9316
+non-rounded: 13174.813543592
+
+number: 138
+should be: 13495
+but is: 13494 (13494.722273142)
+diff: +1
+triangularNumber: 9591
+non-rounded: 13563.722273142
+
+number: 146
+should be: 15103
+but is: 15102 (15102.925733822)
+diff: +1
+triangularNumber: 10731
+non-rounded: 15175.925733822
+
+number: 150
+should be: 15941
+but is: 15940 (15940.968589650)
+diff: +1
+triangularNumber: 11325
+non-rounded: 16015.968589650
+
+number: 158
+should be: 17685
+but is: 17684 (17684.936552282)
+diff: +1
+triangularNumber: 12561
+non-rounded: 17763.936552282
+
+number: 162
+should be: 18591
+but is: 18590 (18590.861659086)
+diff: +1
+triangularNumber: 13203
+non-rounded: 18671.861659086
+
+number: 170
+should be: 20471
+but is: 20470 (20470.594123670)
+diff: +1
+triangularNumber: 14535
+non-rounded: 20555.594123670
+
+number: 172
+should be: 20955
+but is: 20954 (20954.669375436)
+diff: +1
+triangularNumber: 14878
+non-rounded: 21040.669375436
+
+number: 174
+should be: 21445
+but is: 21444 (21444.401481450)
+diff: +1
+triangularNumber: 15225
+non-rounded: 21531.401481450
+
+number: 175
+should be: 21692
+but is: 21691 (21691.888854800)
+diff: +1
+triangularNumber: 15400
+non-rounded: 21778.888854800
+
+number: 176
+should be: 21940
+but is: 21939 (21939.790441712)
+diff: +1
+triangularNumber: 15576
+non-rounded: 22027.790441712
+
+number: 178
+should be: 22441
+but is: 22440 (22440.836256222)
+diff: +1
+triangularNumber: 15931
+non-rounded: 22529.836256222
+
+number: 179
+should be: 22694
+but is: 22693 (22693.980483820)
+diff: +1
+triangularNumber: 16110
+non-rounded: 22782.980483820
+
+number: 180
+should be: 22948
+but is: 22947 (22947.538924980)
+diff: +1
+triangularNumber: 16290
+non-rounded: 23037.538924980
+
+number: 182
+should be: 23460
+but is: 23459 (23459.898447986)
+diff: +1
+triangularNumber: 16653
+non-rounded: 23550.898447986
+
+number: 184
+should be: 23978
+but is: 23977 (23977.914825240)
+diff: +1
+triangularNumber: 17020
+non-rounded: 24069.914825240
+
+number: 186
+should be: 24502
+but is: 24501 (24501.588056742)
+diff: +1
+triangularNumber: 17391
+non-rounded: 24594.588056742
+
+number: 188
+should be: 25031
+but is: 25030 (25030.918142492)
+diff: +1
+triangularNumber: 17766
+non-rounded: 25124.918142492
+
+number: 190
+should be: 25566
+but is: 25565 (25565.905082490)
+diff: +1
+triangularNumber: 18145
+non-rounded: 25660.905082490
+
+number: 192
+should be: 26107
+but is: 26106 (26106.548876736)
+diff: +1
+triangularNumber: 18528
+non-rounded: 26202.548876736
+
+number: 194
+should be: 26653
+but is: 26652 (26652.849525230)
+diff: +1
+triangularNumber: 18915
+non-rounded: 26749.849525230
+
+number: 196
+should be: 27205
+but is: 27204 (27204.807027972)
+diff: +1
+triangularNumber: 19306
+non-rounded: 27302.807027972
+
+number: 198
+should be: 27763
+but is: 27762 (27762.421384962)
+diff: +1
+triangularNumber: 19701
+non-rounded: 27861.421384962
+
+number: 199
+should be: 28044
+but is: 28043 (28043.849883800)
+diff: +1
+triangularNumber: 19900
+non-rounded: 28142.849883800
+
+number: 200
+should be: 28326
+but is: 28325 (28325.692596200)
+diff: +1
+triangularNumber: 20100
+non-rounded: 28425.692596200
+
+number: 201
+should be: 28610
+but is: 28609 (28609.949522162)
+diff: +1
+triangularNumber: 20301
+non-rounded: 28709.949522162
+
+number: 202
+should be: 28895
+but is: 28894 (28894.620661686)
+diff: +1
+triangularNumber: 20503
+non-rounded: 28995.620661686
+
+number: 203
+should be: 29182
+but is: 29181 (29181.706014772)
+diff: +1
+triangularNumber: 20706
+non-rounded: 29282.706014772
+
+number: 204
+should be: 29470
+but is: 29469 (29469.205581420)
+diff: +1
+triangularNumber: 20910
+non-rounded: 29571.205581420
+
+number: 206
+should be: 30050
+but is: 30049 (30049.447355402)
+diff: +1
+triangularNumber: 21321
+non-rounded: 30152.447355402
+
+number: 208
+should be: 30636
+but is: 30635 (30635.345983632)
+diff: +1
+triangularNumber: 21736
+non-rounded: 30739.345983632
+
+number: 209
+should be: 30931
+but is: 30930 (30930.916618090)
+diff: +1
+triangularNumber: 21945
+non-rounded: 31034.916618090
+
+number: 210
+should be: 31227
+but is: 31226 (31226.901466110)
+diff: +1
+triangularNumber: 22155
+non-rounded: 31331.901466110
+
+number: 214
+should be: 32427
+but is: 32426 (32426.982993810)
+diff: +1
+triangularNumber: 23005
+non-rounded: 32533.982993810
+
+number: 216
+should be: 33036
+but is: 33035 (33035.509039032)
+diff: +1
+triangularNumber: 23436
+non-rounded: 33143.509039032
+
+number: 218
+should be: 33650
+but is: 33649 (33649.691938502)
+diff: +1
+triangularNumber: 23871
+non-rounded: 33758.691938502
+
+number: 220
+should be: 34270
+but is: 34269 (34269.531692220)
+diff: +1
+triangularNumber: 24310
+non-rounded: 34379.531692220
+
+number: 226
+should be: 36163
+but is: 36162 (36162.992078862)
+diff: +1
+triangularNumber: 25651
+non-rounded: 36275.992078862
+
+number: 228
+should be: 36806
+but is: 36805 (36805.459249572)
+diff: +1
+triangularNumber: 26106
+non-rounded: 36919.459249572
+
+number: 230
+should be: 37454
+but is: 37453 (37453.583274530)
+diff: +1
+triangularNumber: 26565
+non-rounded: 37568.583274530
+
+number: 232
+should be: 38108
+but is: 38107 (38107.364153736)
+diff: +1
+triangularNumber: 27028
+non-rounded: 38223.364153736
+
+number: 233
+should be: 38437
+but is: 38436 (38436.875913682)
+diff: +1
+triangularNumber: 27261
+non-rounded: 38552.875913682
+
+number: 234
+should be: 38767
+but is: 38766 (38766.801887190)
+diff: +1
+triangularNumber: 27495
+non-rounded: 38883.801887190
+
+number: 236
+should be: 39432
+but is: 39431 (39431.896474892)
+diff: +1
+triangularNumber: 27966
+non-rounded: 39549.896474892
+
+number: 238
+should be: 40103
+but is: 40102 (40102.647916842)
+diff: +1
+triangularNumber: 28441
+non-rounded: 40221.647916842
+
+number: 244
+should be: 42149
+but is: 42148 (42148.843368180)
+diff: +1
+triangularNumber: 29890
+non-rounded: 42270.843368180
+
+number: 250
+should be: 44246
+but is: 44245 (44245.950507750)
+diff: +1
+triangularNumber: 31375
+non-rounded: 44370.950507750
+
+number: 253
+should be: 45313
+but is: 45314 (45314.095960622)
+diff: -1
+triangularNumber: 32131
+non-rounded: 45440.095960622
+
+number: 256
+should be: 46394
+but is: 46393 (46393.969335552)
+diff: +1
+triangularNumber: 32896
+non-rounded: 46521.969335552
+
+number: 262
+should be: 48593
+but is: 48592 (48592.899851586)
+diff: +1
+triangularNumber: 34453
+non-rounded: 48723.899851586
+
+number: 268
+should be: 50843
+but is: 50842 (50842.742055852)
+diff: +1
+triangularNumber: 36046
+non-rounded: 50976.742055852
+
+number: 272
+should be: 52371
+but is: 52370 (52370.921129936)
+diff: +1
+triangularNumber: 37128
+non-rounded: 52506.921129936
+
+number: 274
+should be: 53144
+but is: 53143 (53143.495948350)
+diff: +1
+triangularNumber: 37675
+non-rounded: 53280.495948350
+
+number: 276
+should be: 53922
+but is: 53921 (53921.727621012)
+diff: +1
+triangularNumber: 38226
+non-rounded: 54059.727621012
+
+number: 278
+should be: 54706
+but is: 54705 (54705.616147922)
+diff: +1
+triangularNumber: 38781
+non-rounded: 54844.616147922
+
+number: 286
+should be: 57898
+but is: 57897 (57897.738798042)
+diff: +1
+triangularNumber: 41041
+non-rounded: 58040.738798042
+
+number: 288
+should be: 58710
+but is: 58709 (58709.911596192)
+diff: +1
+triangularNumber: 41616
+non-rounded: 58853.911596192
+
+number: 290
+should be: 59528
+but is: 59527 (59527.741248590)
+diff: +1
+triangularNumber: 42195
+non-rounded: 59672.741248590
+
+number: 298
+should be: 62856
+but is: 62855 (62855.628400662)
+diff: +1
+triangularNumber: 44551
+non-rounded: 63004.628400662
+
+number: 300
+should be: 63702
+but is: 63701 (63701.742324300)
+diff: +1
+triangularNumber: 45150
+non-rounded: 63851.742324300
+
+number: 302
+should be: 64554
+but is: 64553 (64553.513102186)
+diff: +1
+triangularNumber: 45753
+non-rounded: 64704.513102186
+
+number: 304
+should be: 65411
+but is: 65410 (65410.940734320)
+diff: +1
+triangularNumber: 46360
+non-rounded: 65562.940734320
+
+number: 308
+should be: 67143
+but is: 67142 (67142.766561332)
+diff: +1
+triangularNumber: 47586
+non-rounded: 67296.766561332
+
+number: 314
+should be: 69783
+but is: 69782 (69782.931708710)
+diff: +1
+triangularNumber: 49455
+non-rounded: 69939.931708710
+
+number: 323
+should be: 73838
+but is: 73839 (73839.138845212)
+diff: -1
+triangularNumber: 52326
+non-rounded: 74000.138845212
+
+number: 326
+should be: 75216
+but is: 75215 (75215.997068162)
+diff: +1
+triangularNumber: 53301
+non-rounded: 75378.997068162
+
+number: 332
+should be: 78009
+but is: 78008 (78008.897280236)
+diff: +1
+triangularNumber: 55278
+non-rounded: 78174.897280236
+
+number: 338
+should be: 80853
+but is: 80852 (80852.709180542)
+diff: +1
+triangularNumber: 57291
+non-rounded: 81021.709180542
+
+number: 340
+should be: 81812
+but is: 81811 (81811.960189140)
+diff: +1
+triangularNumber: 57970
+non-rounded: 81981.960189140
+
+number: 342
+should be: 82777
+but is: 82776 (82776.868051986)
+diff: +1
+triangularNumber: 58653
+non-rounded: 82947.868051986
+
+number: 343
+should be: 83262
+but is: 83261 (83261.943303752)
+diff: +1
+triangularNumber: 58996
+non-rounded: 83432.943303752
+
+number: 344
+should be: 83748
+but is: 83747 (83747.432769080)
+diff: +1
+triangularNumber: 59340
+non-rounded: 83919.432769080
+
+number: 346
+should be: 84724
+but is: 84723 (84723.654340422)
+diff: +1
+triangularNumber: 60031
+non-rounded: 84896.654340422
+
+number: 348
+should be: 85706
+but is: 85705 (85705.532766012)
+diff: +1
+triangularNumber: 60726
+non-rounded: 85879.532766012
+
+number: 356
+should be: 89690
+but is: 89689 (89689.615010852)
+diff: +1
+triangularNumber: 63546
+non-rounded: 89867.615010852
+
+number: 358
+should be: 90700
+but is: 90699 (90699.777707682)
+diff: +1
+triangularNumber: 64261
+non-rounded: 90878.777707682
+
+number: 360
+should be: 91716
+but is: 91715 (91715.597258760)
+diff: +1
+triangularNumber: 64980
+non-rounded: 91895.597258760
+
+number: 366
+should be: 94797
+but is: 94796 (94796.997037482)
+diff: +1
+triangularNumber: 67161
+non-rounded: 94979.997037482
+
+number: 368
+should be: 95836
+but is: 95835 (95835.444005552)
+diff: +1
+triangularNumber: 67896
+non-rounded: 96019.444005552
+
+number: 370
+should be: 96880
+but is: 96879 (96879.547827870)
+diff: +1
+triangularNumber: 68635
+non-rounded: 97064.547827870
+
+number: 372
+should be: 97930
+but is: 97929 (97929.308504436)
+diff: +1
+triangularNumber: 69378
+non-rounded: 98115.308504436
+
+number: 373
+should be: 98457
+but is: 98456 (98456.810163062)
+diff: +1
+triangularNumber: 69751
+non-rounded: 98642.810163062
+
+number: 374
+should be: 98985
+but is: 98984 (98984.726035250)
+diff: +1
+triangularNumber: 70125
+non-rounded: 99171.726035250
+
+number: 376
+should be: 100046
+but is: 100045 (100045.800420312)
+diff: +1
+triangularNumber: 70876
+non-rounded: 100233.800420312
+
+number: 377
+should be: 100579
+but is: 100578 (100578.958933186)
+diff: +1
+triangularNumber: 71253
+non-rounded: 100766.958933186
+
+number: 378
+should be: 101113
+but is: 101112 (101112.531659622)
+diff: +1
+triangularNumber: 71631
+non-rounded: 101301.531659622
+
+number: 380
+should be: 102185
+but is: 102184 (102184.919753180)
+diff: +1
+triangularNumber: 72390
+non-rounded: 102374.919753180
+
+number: 382
+should be: 103263
+but is: 103262 (103262.964700986)
+diff: +1
+triangularNumber: 73153
+non-rounded: 103453.964700986
+
+number: 384
+should be: 104347
+but is: 104346 (104346.666503040)
+diff: +1
+triangularNumber: 73920
+non-rounded: 104538.666503040
+
+number: 390
+should be: 107632
+but is: 107631 (107631.713034690)
+diff: +1
+triangularNumber: 76245
+non-rounded: 107826.713034690
+
+number: 396
+should be: 110968
+but is: 110967 (110967.671254572)
+diff: +1
+triangularNumber: 78606
+non-rounded: 111165.671254572
+
+number: 398
+should be: 112091
+but is: 112090 (112090.971036362)
+diff: +1
+triangularNumber: 79401
+non-rounded: 112289.971036362
+
+number: 400
+should be: 113220
+but is: 113219 (113219.927672400)
+diff: +1
+triangularNumber: 80200
+non-rounded: 113419.927672400
+
+number: 402
+should be: 114355
+but is: 114354 (114354.541162686)
+diff: +1
+triangularNumber: 81003
+non-rounded: 114555.541162686
+
+number: 404
+should be: 115495
+but is: 115494 (115494.811507220)
+diff: +1
+triangularNumber: 81810
+non-rounded: 115696.811507220
+
+number: 406
+should be: 116641
+but is: 116640 (116640.738706002)
+diff: +1
+triangularNumber: 82621
+non-rounded: 116843.738706002
+
+number: 421
+should be: 125415
+but is: 125416 (125416.004926022)
+diff: -1
+triangularNumber: 88831
+non-rounded: 125626.004926022
+
+number: 423
+should be: 126609
+but is: 126610 (126610.015385912)
+diff: -1
+triangularNumber: 89676
+non-rounded: 126821.015385912
+
+number: 427
+should be: 129014
+but is: 129015 (129015.006868436)
+diff: -1
+triangularNumber: 91378
+non-rounded: 129228.006868436
+
+number: 438
+should be: 135745
+but is: 135744 (135744.906064242)
+diff: +1
+triangularNumber: 96141
+non-rounded: 135963.906064242
+
+number: 440
+should be: 136987
+but is: 136986 (136986.999785240)
+diff: +1
+triangularNumber: 97020
+non-rounded: 137206.999785240
+
+number: 442
+should be: 138235
+but is: 138234 (138234.750360486)
+diff: +1
+triangularNumber: 97903
+non-rounded: 138455.750360486
+
+number: 448
+should be: 142012
+but is: 142011 (142011.943211712)
+diff: +1
+triangularNumber: 100576
+non-rounded: 142235.943211712
+
+number: 451
+should be: 143919
+but is: 143920 (143920.131520412)
+diff: -1
+triangularNumber: 101926
+non-rounded: 144145.131520412
+
+number: 461
+should be: 150370
+but is: 150371 (150371.016430942)
+diff: -1
+triangularNumber: 106491
+non-rounded: 150601.016430942
+
+number: 463
+should be: 151677
+but is: 151678 (151678.163975792)
+diff: -1
+triangularNumber: 107416
+non-rounded: 151909.163975792
+
+number: 466
+should be: 153649
+but is: 153648 (153648.991894782)
+diff: +1
+triangularNumber: 108811
+non-rounded: 153881.991894782
+
+number: 472
+should be: 157630
+but is: 157629 (157629.831498936)
+diff: +1
+triangularNumber: 111628
+non-rounded: 157865.831498936
+
+number: 481
+should be: 163696
+but is: 163697 (163697.050320602)
+diff: -1
+triangularNumber: 115921
+non-rounded: 163937.050320602
+
+number: 485
+should be: 166429
+but is: 166430 (166430.139349510)
+diff: -1
+triangularNumber: 117855
+non-rounded: 166672.139349510
+
+number: 487
+should be: 167804
+but is: 167805 (167805.169145336)
+diff: -1
+triangularNumber: 118828
+non-rounded: 168048.169145336
+
+number: 491
+should be: 170571
+but is: 170572 (170572.199299732)
+diff: -1
+triangularNumber: 120786
+non-rounded: 170817.199299732
+
+number: 493
+should be: 171963
+but is: 171964 (171964.199658302)
+diff: -1
+triangularNumber: 121771
+non-rounded: 172210.199658302
+
+number: 497
+should be: 174764
+but is: 174765 (174765.170938186)
+diff: -1
+triangularNumber: 123753
+non-rounded: 175013.170938186
+
+number: 499
+should be: 176173
+but is: 176174 (176174.141859500)
+diff: -1
+triangularNumber: 124750
+non-rounded: 176423.141859500
+
+number: 503
+should be: 179008
+but is: 179009 (179009.054264872)
+diff: -1
+triangularNumber: 126756
+non-rounded: 179260.054264872
+
+number: 512
+should be: 185470
+but is: 185469 (185469.838670336)
+diff: +1
+triangularNumber: 131328
+non-rounded: 185725.838670336
+
+number: 521
+should be: 192045
+but is: 192046 (192046.174374322)
+diff: -1
+triangularNumber: 135981
+non-rounded: 192306.174374322
+
+number: 523
+should be: 193522
+but is: 193523 (193523.027546612)
+diff: -1
+triangularNumber: 137026
+non-rounded: 193784.027546612
+
+number: 531
+should be: 199486
+but is: 199487 (199487.008778252)
+diff: -1
+triangularNumber: 141246
+non-rounded: 199752.008778252
+
+number: 533
+should be: 200991
+but is: 200992 (200992.146221782)
+diff: -1
+triangularNumber: 142311
+non-rounded: 201258.146221782
+
+number: 536
+should be: 203260
+but is: 203259 (203259.958988792)
+diff: +1
+triangularNumber: 143916
+non-rounded: 203527.958988792
+
+number: 542
+should be: 207835
+but is: 207834 (207834.768288986)
+diff: +1
+triangularNumber: 147153
+non-rounded: 208105.768288986
+
+number: 546
+should be: 210913
+but is: 210912 (210912.925427022)
+diff: +1
+triangularNumber: 149331
+non-rounded: 211185.925427022
+
+number: 555
+should be: 217921
+but is: 217922 (217922.010480980)
+diff: -1
+triangularNumber: 154290
+non-rounded: 218199.010480980
+
+number: 557
+should be: 219494
+but is: 219495 (219495.030175486)
+diff: -1
+triangularNumber: 155403
+non-rounded: 219773.030175486
+
+number: 561
+should be: 222657
+but is: 222658 (222658.040127242)
+diff: -1
+triangularNumber: 157641
+non-rounded: 222938.040127242
+
+number: 563
+should be: 224247
+but is: 224248 (224248.030384492)
+diff: -1
+triangularNumber: 158766
+non-rounded: 224529.030384492
+
+number: 578
+should be: 236353
+but is: 236352 (236352.769543022)
+diff: +1
+triangularNumber: 167331
+non-rounded: 236641.769543022
+
+number: 580
+should be: 237991
+but is: 237990 (237990.843061380)
+diff: +1
+triangularNumber: 168490
+non-rounded: 238280.843061380
+
+number: 582
+should be: 239635
+but is: 239634 (239634.573433986)
+diff: +1
+triangularNumber: 169653
+non-rounded: 239925.573433986
+
+number: 584
+should be: 241284
+but is: 241283 (241283.960660840)
+diff: +1
+triangularNumber: 170820
+non-rounded: 241575.960660840
+
+number: 588
+should be: 244600
+but is: 244599 (244599.705677292)
+diff: +1
+triangularNumber: 173166
+non-rounded: 244893.705677292
+
+number: 594
+should be: 249616
+but is: 249615 (249615.749608830)
+diff: +1
+triangularNumber: 176715
+non-rounded: 249912.749608830
+
+number: 600
+should be: 254683
+but is: 254682 (254682.705228600)
+diff: +1
+triangularNumber: 180300
+non-rounded: 254982.705228600
+
+number: 604
+should be: 258089
+but is: 258088 (258088.959913020)
+diff: +1
+triangularNumber: 182710
+non-rounded: 258390.959913020
+
+number: 606
+should be: 259801
+but is: 259800 (259800.572536602)
+diff: +1
+triangularNumber: 183921
+non-rounded: 260103.572536602
+
+number: 608
+should be: 261518
+but is: 261517 (261517.842014432)
+diff: +1
+triangularNumber: 185136
+non-rounded: 261821.842014432
+
+number: 610
+should be: 263241
+but is: 263240 (263240.768346510)
+diff: +1
+triangularNumber: 186355
+non-rounded: 263545.768346510
+
+number: 611
+should be: 264105
+but is: 264104 (264104.852832892)
+diff: +1
+triangularNumber: 186966
+non-rounded: 264409.852832892
+
+number: 612
+should be: 264970
+but is: 264969 (264969.351532836)
+diff: +1
+triangularNumber: 187578
+non-rounded: 265275.351532836
+
+number: 614
+should be: 266704
+but is: 266703 (266703.591573410)
+diff: +1
+triangularNumber: 188805
+non-rounded: 267010.591573410
+
+number: 616
+should be: 268444
+but is: 268443 (268443.488468232)
+diff: +1
+triangularNumber: 190036
+non-rounded: 268751.488468232
+
+number: 624
+should be: 275460
+but is: 275459 (275459.644590000)
+diff: +1
+triangularNumber: 195000
+non-rounded: 275771.644590000
+
+number: 626
+should be: 277228
+but is: 277227 (277227.825756062)
+diff: +1
+triangularNumber: 196251
+non-rounded: 277540.825756062
+
+number: 628
+should be: 279002
+but is: 279001 (279001.663776372)
+diff: +1
+triangularNumber: 197506
+non-rounded: 279315.663776372
+
+number: 636
+should be: 286154
+but is: 286153 (286153.584400092)
+diff: +1
+triangularNumber: 202566
+non-rounded: 286471.584400092
+
+number: 638
+should be: 287956
+but is: 287955 (287955.706691642)
+diff: +1
+triangularNumber: 203841
+non-rounded: 288274.706691642
+
+number: 640
+should be: 289764
+but is: 289763 (289763.485837440)
+diff: +1
+triangularNumber: 205120
+non-rounded: 290083.485837440
+
+number: 641
+should be: 290670
+but is: 290669 (290669.996730682)
+diff: +1
+triangularNumber: 205761
+non-rounded: 290989.996730682
+
+number: 642
+should be: 291577
+but is: 291576 (291576.921837486)
+diff: +1
+triangularNumber: 206403
+non-rounded: 291897.921837486
+
+number: 646
+should be: 295221
+but is: 295220 (295220.764400322)
+diff: +1
+triangularNumber: 208981
+non-rounded: 295543.764400322
+
+number: 652
+should be: 300729
+but is: 300728 (300728.954651436)
+diff: +1
+triangularNumber: 212878
+non-rounded: 301054.954651436
+
+number: 659
+should be: 307219
+but is: 307220 (307220.023328140)
+diff: -1
+triangularNumber: 217470
+non-rounded: 307549.023328140
+
+number: 661
+should be: 309086
+but is: 309087 (309087.199443542)
+diff: -1
+triangularNumber: 218791
+non-rounded: 309417.199443542
+
+number: 663
+should be: 310959
+but is: 310960 (310960.032413192)
+diff: -1
+triangularNumber: 220116
+non-rounded: 311291.032413192
+
+number: 670
+should be: 317559
+but is: 317558 (317558.995534170)
+diff: +1
+triangularNumber: 224785
+non-rounded: 317893.995534170
+
+number: 673
+should be: 320408
+but is: 320409 (320409.050075162)
+diff: -1
+triangularNumber: 226801
+non-rounded: 320745.050075162
+
+number: 676
+should be: 323271
+but is: 323270 (323270.832538212)
+diff: +1
+triangularNumber: 228826
+non-rounded: 323608.832538212
+
+number: 682
+should be: 329034
+but is: 329033 (329033.581230486)
+diff: +1
+triangularNumber: 232903
+non-rounded: 329374.581230486
+
+number: 684
+should be: 330966
+but is: 330965 (330965.811169740)
+diff: +1
+triangularNumber: 234270
+non-rounded: 331307.811169740
+
+number: 686
+should be: 332904
+but is: 332903 (332903.697963242)
+diff: +1
+triangularNumber: 235641
+non-rounded: 333246.697963242
+
+number: 694
+should be: 340712
+but is: 340711 (340711.813679730)
+diff: +1
+triangularNumber: 241165
+non-rounded: 341058.813679730
+
+number: 696
+should be: 342678
+but is: 342677 (342677.984744472)
+diff: +1
+triangularNumber: 242556
+non-rounded: 343025.984744472
+
+number: 698
+should be: 344650
+but is: 344649 (344649.812663462)
+diff: +1
+triangularNumber: 243951
+non-rounded: 344998.812663462
+
+number: 706
+should be: 352594
+but is: 352593 (352593.692881902)
+diff: +1
+triangularNumber: 249571
+non-rounded: 352946.692881902
+
+number: 708
+should be: 354594
+but is: 354593 (354593.805072132)
+diff: +1
+triangularNumber: 250986
+non-rounded: 354947.805072132
+
+number: 710
+should be: 356600
+but is: 356599 (356599.574116610)
+diff: +1
+triangularNumber: 252405
+non-rounded: 356954.574116610
+
+number: 716
+should be: 362651
+but is: 362650 (362650.822375532)
+diff: +1
+triangularNumber: 256686
+non-rounded: 363008.822375532
+
+number: 719
+should be: 365695
+but is: 365696 (365696.038388080)
+diff: -1
+triangularNumber: 258840
+non-rounded: 366055.038388080
+
+number: 722
+should be: 368753
+but is: 368752 (368752.982322686)
+diff: +1
+triangularNumber: 261003
+non-rounded: 369113.982322686
+
+number: 729
+should be: 375936
+but is: 375937 (375937.015644770)
+diff: -1
+triangularNumber: 266085
+non-rounded: 376301.015644770
+
+number: 731
+should be: 378001
+but is: 378002 (378002.181658852)
+diff: -1
+triangularNumber: 267546
+non-rounded: 378367.181658852
+
+number: 733
+should be: 380072
+but is: 380073 (380073.004527182)
+diff: -1
+triangularNumber: 269011
+non-rounded: 380439.004527182
+
+number: 740
+should be: 387365
+but is: 387364 (387364.932293540)
+diff: +1
+triangularNumber: 274170
+non-rounded: 387734.932293540
+
+number: 746
+should be: 393671
+but is: 393670 (393670.738993622)
+diff: +1
+triangularNumber: 278631
+non-rounded: 394043.738993622
+
+number: 748
+should be: 395784
+but is: 395783 (395783.988268812)
+diff: +1
+triangularNumber: 280126
+non-rounded: 396157.988268812
+
+number: 750
+should be: 397903
+but is: 397902 (397902.894398250)
+diff: +1
+triangularNumber: 281625
+non-rounded: 398277.894398250
+
+number: 751
+should be: 398965
+but is: 398964 (398964.968783312)
+diff: +1
+triangularNumber: 282376
+non-rounded: 399339.968783312
+
+number: 752
+should be: 400028
+but is: 400027 (400027.457381936)
+diff: +1
+triangularNumber: 283128
+non-rounded: 400403.457381936
+
+number: 754
+should be: 402158
+but is: 402157 (402157.677219870)
+diff: +1
+triangularNumber: 284635
+non-rounded: 402534.677219870
+
+number: 756
+should be: 404294
+but is: 404293 (404293.553912052)
+diff: +1
+triangularNumber: 286146
+non-rounded: 404671.553912052
+
+number: 764
+should be: 412894
+but is: 412893 (412893.629223260)
+diff: +1
+triangularNumber: 292230
+non-rounded: 413275.629223260
+
+number: 766
+should be: 415058
+but is: 415057 (415057.790186682)
+diff: +1
+triangularNumber: 293761
+non-rounded: 415440.790186682
+
+number: 768
+should be: 417228
+but is: 417227 (417227.608004352)
+diff: +1
+triangularNumber: 295296
+non-rounded: 417611.608004352
+
+number: 776
+should be: 425964
+but is: 425963 (425963.447817512)
+diff: +1
+triangularNumber: 301476
+non-rounded: 426351.447817512
+
+number: 778
+should be: 428162
+but is: 428161 (428161.549906422)
+diff: +1
+triangularNumber: 303031
+non-rounded: 428550.549906422
+
+number: 780
+should be: 430366
+but is: 430365 (430365.308849580)
+diff: +1
+triangularNumber: 304590
+non-rounded: 430755.308849580
+
+number: 781
+should be: 431470
+but is: 431469 (431469.809641502)
+diff: +1
+triangularNumber: 305371
+non-rounded: 431859.809641502
+
+number: 782
+should be: 432575
+but is: 432574 (432574.724646986)
+diff: +1
+triangularNumber: 306153
+non-rounded: 432965.724646986
+
+number: 784
+should be: 434790
+but is: 434789 (434789.797298640)
+diff: +1
+triangularNumber: 307720
+non-rounded: 435181.797298640
+
+number: 785
+should be: 435900
+but is: 435899 (435899.954944810)
+diff: +1
+triangularNumber: 308505
+non-rounded: 436291.954944810
+
+number: 786
+should be: 437011
+but is: 437010 (437010.526804542)
+diff: +1
+triangularNumber: 309291
+non-rounded: 437403.526804542
+
+number: 788
+should be: 439237
+but is: 439236 (439236.913164692)
+diff: +1
+triangularNumber: 310866
+non-rounded: 439630.913164692
+
+number: 790
+should be: 441469
+but is: 441468 (441468.956379090)
+diff: +1
+triangularNumber: 312445
+non-rounded: 441863.956379090
+
+number: 792
+should be: 443707
+but is: 443706 (443706.656447736)
+diff: +1
+triangularNumber: 314028
+non-rounded: 444102.656447736
+
+number: 798
+should be: 450454
+but is: 450453 (450453.697779162)
+diff: +1
+triangularNumber: 318801
+non-rounded: 450852.697779162
+
+number: 804
+should be: 457252
+but is: 457251 (457251.650798820)
+diff: +1
+triangularNumber: 323610
+non-rounded: 457653.650798820
+
+number: 806
+should be: 459529
+but is: 459528 (459528.948847202)
+diff: +1
+triangularNumber: 325221
+non-rounded: 459931.948847202
+
+number: 808
+should be: 461812
+but is: 461811 (461811.903749832)
+diff: +1
+triangularNumber: 326836
+non-rounded: 462215.903749832
+
+number: 810
+should be: 464101
+but is: 464100 (464100.515506710)
+diff: +1
+triangularNumber: 328455
+non-rounded: 464505.515506710
+
+number: 812
+should be: 466395
+but is: 466394 (466394.784117836)
+diff: +1
+triangularNumber: 330078
+non-rounded: 466800.784117836
+
+number: 814
+should be: 468695
+but is: 468694 (468694.709583210)
+diff: +1
+triangularNumber: 331705
+non-rounded: 469101.709583210
+
+number: 822
+should be: 477951
+but is: 477950 (477950.979987186)
+diff: +1
+triangularNumber: 338253
+non-rounded: 478361.979987186
+
+number: 846
+should be: 506263
+but is: 506262 (506262.849206922)
+diff: +1
+triangularNumber: 358281
+non-rounded: 506685.849206922
+
+number: 848
+should be: 508659
+but is: 508658 (508658.941194512)
+diff: +1
+triangularNumber: 359976
+non-rounded: 509082.941194512
+
+number: 850
+should be: 511061
+but is: 511060 (511060.690036350)
+diff: +1
+triangularNumber: 361675
+non-rounded: 511485.690036350
+
+number: 856
+should be: 518300
+but is: 518299 (518299.877687352)
+diff: +1
+triangularNumber: 366796
+non-rounded: 518727.877687352
+
+number: 859
+should be: 521938
+but is: 521939 (521939.063395940)
+diff: -1
+triangularNumber: 369370
+non-rounded: 522368.063395940
+
+number: 862
+should be: 525590
+but is: 525589 (525589.977026586)
+diff: +1
+triangularNumber: 371953
+non-rounded: 526020.977026586
+
+number: 868
+should be: 532931
+but is: 532930 (532930.988054052)
+diff: +1
+triangularNumber: 377146
+non-rounded: 533364.988054052
+
+number: 871
+should be: 536620
+but is: 536621 (536621.085450872)
+diff: -1
+triangularNumber: 379756
+non-rounded: 537056.085450872
+
+number: 874
+should be: 540323
+but is: 540322 (540322.910769750)
+diff: +1
+triangularNumber: 382375
+non-rounded: 540759.910769750
+
+number: 880
+should be: 547766
+but is: 547765 (547765.745173680)
+diff: +1
+triangularNumber: 387640
+non-rounded: 548205.745173680
+
+number: 884
+should be: 552756
+but is: 552755 (552755.919047540)
+diff: +1
+triangularNumber: 391170
+non-rounded: 553197.919047540
+
+number: 893
+should be: 564066
+but is: 564067 (564067.041757102)
+diff: -1
+triangularNumber: 399171
+non-rounded: 564513.041757102
+
+number: 895
+should be: 566595
+but is: 566596 (566596.069819520)
+diff: -1
+triangularNumber: 400960
+non-rounded: 567043.069819520
+
+number: 899
+should be: 571670
+but is: 571671 (571671.096507100)
+diff: -1
+triangularNumber: 404550
+non-rounded: 572120.096507100
+
+number: 901
+should be: 574216
+but is: 574217 (574217.095132262)
+diff: -1
+triangularNumber: 406351
+non-rounded: 574667.095132262
+
+number: 905
+should be: 579325
+but is: 579326 (579326.062945330)
+diff: -1
+triangularNumber: 409965
+non-rounded: 579778.062945330
+
+number: 907
+should be: 581888
+but is: 581889 (581889.032133236)
+diff: -1
+triangularNumber: 411778
+non-rounded: 582342.032133236
+
+number: 916
+should be: 593492
+but is: 593491 (593491.897050132)
+diff: +1
+triangularNumber: 419986
+non-rounded: 593949.897050132
+
+number: 918
+should be: 596086
+but is: 596085 (596085.978936402)
+diff: +1
+triangularNumber: 421821
+non-rounded: 596544.978936402
+
+number: 920
+should be: 598686
+but is: 598685 (598685.717676920)
+diff: +1
+triangularNumber: 423660
+non-rounded: 599145.717676920
+
+number: 926
+should be: 606519
+but is: 606518 (606518.875023962)
+diff: +1
+triangularNumber: 429201
+non-rounded: 606981.875023962
+
+number: 929
+should be: 610454
+but is: 610455 (610455.045580570)
+diff: -1
+triangularNumber: 431985
+non-rounded: 610919.045580570
+
+number: 932
+should be: 614403
+but is: 614402 (614402.944059236)
+diff: +1
+triangularNumber: 434778
+non-rounded: 614868.944059236
+
+number: 938
+should be: 622338
+but is: 622337 (622337.924782742)
+diff: +1
+triangularNumber: 440391
+non-rounded: 622806.924782742
+
+number: 941
+should be: 626324
+but is: 626325 (626325.007027582)
+diff: -1
+triangularNumber: 443211
+non-rounded: 626795.007027582
+
+number: 944
+should be: 630324
+but is: 630323 (630323.817194480)
+diff: +1
+triangularNumber: 446040
+non-rounded: 630795.817194480
+
+number: 950
+should be: 638361
+but is: 638360 (638360.621294450)
+diff: +1
+triangularNumber: 451725
+non-rounded: 638835.621294450
+
+number: 952
+should be: 641051
+but is: 641050 (641050.869702936)
+diff: +1
+triangularNumber: 453628
+non-rounded: 641526.869702936
+
+number: 954
+should be: 643747
+but is: 643746 (643746.774965670)
+diff: +1
+triangularNumber: 455535
+non-rounded: 644223.774965670
+
+number: 962
+should be: 654587
+but is: 654586 (654586.964559086)
+diff: +1
+triangularNumber: 463203
+non-rounded: 655067.964559086
+
+number: 974
+should be: 671017
+but is: 671016 (671016.954576650)
+diff: +1
+triangularNumber: 474825
+non-rounded: 671503.954576650
+
+number: 978
+should be: 676539
+but is: 676538 (676538.872749822)
+diff: +1
+triangularNumber: 478731
+non-rounded: 677027.872749822
+
+number: 986
+should be: 687651
+but is: 687650 (687650.591347142)
+diff: +1
+triangularNumber: 486591
+non-rounded: 688143.591347142
+
+number: 988
+should be: 690443
+but is: 690442 (690442.663132092)
+diff: +1
+triangularNumber: 488566
+non-rounded: 690936.663132092
+
+number: 990
+should be: 693241
+but is: 693240 (693240.391771290)
+diff: +1
+triangularNumber: 490545
+non-rounded: 693735.391771290
+
+number: 991
+should be: 694642
+but is: 694641 (694641.877411232)
+diff: +1
+triangularNumber: 491536
+non-rounded: 695136.877411232
+
+number: 992
+should be: 696044
+but is: 696043 (696043.777264736)
+diff: +1
+triangularNumber: 492528
+non-rounded: 696539.777264736
+
+number: 994
+should be: 698853
+but is: 698852 (698852.819612430)
+diff: +1
+triangularNumber: 494515
+non-rounded: 699349.819612430
+
+number: 995
+should be: 700260
+but is: 700259 (700259.962106620)
+diff: +1
+triangularNumber: 495510
+non-rounded: 700756.962106620
+
+number: 996
+should be: 701668
+but is: 701667 (701667.518814372)
+diff: +1
+triangularNumber: 496506
+non-rounded: 702165.518814372
+
+number: 998
+should be: 704488
+but is: 704487 (704487.874870562)
+diff: +1
+triangularNumber: 498501
+non-rounded: 704986.874870562
+
+number: 1000
+should be: 707314
+but is: 707313 (707313.887781000)
+diff: +1
+triangularNumber: 500500
+non-rounded: 707813.887781000
+
+
+Process finished with exit code 0
+
+
+6  27 : 26 (+1)
+8  47 : 46 (+1)
+10  73 : 72 (+1)
+18  233 : 232 (+1)
+20  287 : 286 (+1)
+22  347 : 346 (+1)
+30  643 : 642 (+1)
+32  731 : 730 (+1)
+34  825 : 824 (+1)
+35  874 : 873 (+1)
+36  924 : 923 (+1)
+38  1029 : 1028 (+1)
+40  1140 : 1139 (+1)
+46  1506 : 1505 (+1)
+52  1923 : 1922 (+1)
+58  2391 : 2390 (+1)
+62  2731 : 2730 (+1)
+64  2910 : 2909 (+1)
+66  3094 : 3093 (+1)
+68  3284 : 3283 (+1)
+76  4100 : 4099 (+1)
+100  7092 : 7091 (+1)
+102  7378 : 7377 (+1)
+104  7670 : 7669 (+1)
+110  8579 : 8578 (+1)
+116  9539 : 9538 (+1)
+122  10550 : 10549 (+1)
+128  11612 : 11611 (+1)
+132  12348 : 12347 (+1)
+134  12725 : 12724 (+1)
+136  13107 : 13106 (+1)
+138  13495 : 13494 (+1)
+146  15103 : 15102 (+1)
+150  15941 : 15940 (+1)
+158  17685 : 17684 (+1)
+162  18591 : 18590 (+1)
+170  20471 : 20470 (+1)
+172  20955 : 20954 (+1)
+174  21445 : 21444 (+1)
+175  21692 : 21691 (+1)
+176  21940 : 21939 (+1)
+178  22441 : 22440 (+1)
+179  22694 : 22693 (+1)
+180  22948 : 22947 (+1)
+182  23460 : 23459 (+1)
+184  23978 : 23977 (+1)
+186  24502 : 24501 (+1)
+188  25031 : 25030 (+1)
+190  25566 : 25565 (+1)
+192  26107 : 26106 (+1)
+194  26653 : 26652 (+1)
+196  27205 : 27204 (+1)
+198  27763 : 27762 (+1)
+199  28044 : 28043 (+1)
+200  28326 : 28325 (+1)
+201  28610 : 28609 (+1)
+202  28895 : 28894 (+1)
+203  29182 : 29181 (+1)
+204  29470 : 29469 (+1)
+206  30050 : 30049 (+1)
+208  30636 : 30635 (+1)
+209  30931 : 30930 (+1)
+210  31227 : 31226 (+1)
+214  32427 : 32426 (+1)
+216  33036 : 33035 (+1)
+218  33650 : 33649 (+1)
+220  34270 : 34269 (+1)
+226  36163 : 36162 (+1)
+228  36806 : 36805 (+1)
+230  37454 : 37453 (+1)
+232  38108 : 38107 (+1)
+233  38437 : 38436 (+1)
+234  38767 : 38766 (+1)
+236  39432 : 39431 (+1)
+238  40103 : 40102 (+1)
+244  42149 : 42148 (+1)
+250  44246 : 44245 (+1)
+253  45313 : 45314 (-1)
+256  46394 : 46393 (+1)
+262  48593 : 48592 (+1)
+268  50843 : 50842 (+1)
+272  52371 : 52370 (+1)
+274  53144 : 53143 (+1)
+276  53922 : 53921 (+1)
+278  54706 : 54705 (+1)
+286  57898 : 57897 (+1)
+288  58710 : 58709 (+1)
+290  59528 : 59527 (+1)
+298  62856 : 62855 (+1)
+300  63702 : 63701 (+1)
+302  64554 : 64553 (+1)
+304  65411 : 65410 (+1)
+308  67143 : 67142 (+1)
+314  69783 : 69782 (+1)
+323  73838 : 73839 (-1)
+326  75216 : 75215 (+1)
+332  78009 : 78008 (+1)
+338  80853 : 80852 (+1)
+340  81812 : 81811 (+1)
+342  82777 : 82776 (+1)
+343  83262 : 83261 (+1)
+344  83748 : 83747 (+1)
+346  84724 : 84723 (+1)
+348  85706 : 85705 (+1)
+356  89690 : 89689 (+1)
+358  90700 : 90699 (+1)
+360  91716 : 91715 (+1)
+366  94797 : 94796 (+1)
+368  95836 : 95835 (+1)
+370  96880 : 96879 (+1)
+372  97930 : 97929 (+1)
+373  98457 : 98456 (+1)
+374  98985 : 98984 (+1)
+376  100046 : 100045 (+1)
+377  100579 : 100578 (+1)
+378  101113 : 101112 (+1)
+380  102185 : 102184 (+1)
+382  103263 : 103262 (+1)
+384  104347 : 104346 (+1)
+390  107632 : 107631 (+1)
+396  110968 : 110967 (+1)
+398  112091 : 112090 (+1)
+400  113220 : 113219 (+1)
+402  114355 : 114354 (+1)
+404  115495 : 115494 (+1)
+406  116641 : 116640 (+1)
+421  125415 : 125416 (-1)
+423  126609 : 126610 (-1)
+427  129014 : 129015 (-1)
+438  135745 : 135744 (+1)
+440  136987 : 136986 (+1)
+442  138235 : 138234 (+1)
+448  142012 : 142011 (+1)
+451  143919 : 143920 (-1)
+461  150370 : 150371 (-1)
+463  151677 : 151678 (-1)
+466  153649 : 153648 (+1)
+472  157630 : 157629 (+1)
+481  163696 : 163697 (-1)
+485  166429 : 166430 (-1)
+487  167804 : 167805 (-1)
+491  170571 : 170572 (-1)
+493  171963 : 171964 (-1)
+497  174764 : 174765 (-1)
+499  176173 : 176174 (-1)
+503  179008 : 179009 (-1)
+512  185470 : 185469 (+1)
+521  192045 : 192046 (-1)
+523  193522 : 193523 (-1)
+531  199486 : 199487 (-1)
+533  200991 : 200992 (-1)
+536  203260 : 203259 (+1)
+542  207835 : 207834 (+1)
+546  210913 : 210912 (+1)
+555  217921 : 217922 (-1)
+557  219494 : 219495 (-1)
+561  222657 : 222658 (-1)
+563  224247 : 224248 (-1)
+578  236353 : 236352 (+1)
+580  237991 : 237990 (+1)
+582  239635 : 239634 (+1)
+584  241284 : 241283 (+1)
+588  244600 : 244599 (+1)
+594  249616 : 249615 (+1)
+600  254683 : 254682 (+1)
+604  258089 : 258088 (+1)
+606  259801 : 259800 (+1)
+608  261518 : 261517 (+1)
+610  263241 : 263240 (+1)
+611  264105 : 264104 (+1)
+612  264970 : 264969 (+1)
+614  266704 : 266703 (+1)
+616  268444 : 268443 (+1)
+624  275460 : 275459 (+1)
+626  277228 : 277227 (+1)
+628  279002 : 279001 (+1)
+636  286154 : 286153 (+1)
+638  287956 : 287955 (+1)
+640  289764 : 289763 (+1)
+641  290670 : 290669 (+1)
+642  291577 : 291576 (+1)
+646  295221 : 295220 (+1)
+652  300729 : 300728 (+1)
+659  307219 : 307220 (-1)
+661  309086 : 309087 (-1)
+663  310959 : 310960 (-1)
+670  317559 : 317558 (+1)
+673  320408 : 320409 (-1)
+676  323271 : 323270 (+1)
+682  329034 : 329033 (+1)
+684  330966 : 330965 (+1)
+686  332904 : 332903 (+1)
+694  340712 : 340711 (+1)
+696  342678 : 342677 (+1)
+698  344650 : 344649 (+1)
+706  352594 : 352593 (+1)
+708  354594 : 354593 (+1)
+710  356600 : 356599 (+1)
+716  362651 : 362650 (+1)
+719  365695 : 365696 (-1)
+722  368753 : 368752 (+1)
+729  375936 : 375937 (-1)
+731  378001 : 378002 (-1)
+733  380072 : 380073 (-1)
+740  387365 : 387364 (+1)
+746  393671 : 393670 (+1)
+748  395784 : 395783 (+1)
+750  397903 : 397902 (+1)
+751  398965 : 398964 (+1)
+752  400028 : 400027 (+1)
+754  402158 : 402157 (+1)
+756  404294 : 404293 (+1)
+764  412894 : 412893 (+1)
+766  415058 : 415057 (+1)
+768  417228 : 417227 (+1)
+776  425964 : 425963 (+1)
+778  428162 : 428161 (+1)
+780  430366 : 430365 (+1)
+781  431470 : 431469 (+1)
+782  432575 : 432574 (+1)
+784  434790 : 434789 (+1)
+785  435900 : 435899 (+1)
+786  437011 : 437010 (+1)
+788  439237 : 439236 (+1)
+790  441469 : 441468 (+1)
+792  443707 : 443706 (+1)
+798  450454 : 450453 (+1)
+804  457252 : 457251 (+1)
+806  459529 : 459528 (+1)
+808  461812 : 461811 (+1)
+810  464101 : 464100 (+1)
+812  466395 : 466394 (+1)
+814  468695 : 468694 (+1)
+822  477951 : 477950 (+1)
+846  506263 : 506262 (+1)
+848  508659 : 508658 (+1)
+850  511061 : 511060 (+1)
+856  518300 : 518299 (+1)
+859  521938 : 521939 (-1)
+862  525590 : 525589 (+1)
+868  532931 : 532930 (+1)
+871  536620 : 536621 (-1)
+874  540323 : 540322 (+1)
+880  547766 : 547765 (+1)
+884  552756 : 552755 (+1)
+893  564066 : 564067 (-1)
+895  566595 : 566596 (-1)
+899  571670 : 571671 (-1)
+901  574216 : 574217 (-1)
+905  579325 : 579326 (-1)
+907  581888 : 581889 (-1)
+916  593492 : 593491 (+1)
+918  596086 : 596085 (+1)
+920  598686 : 598685 (+1)
+926  606519 : 606518 (+1)
+929  610454 : 610455 (-1)
+932  614403 : 614402 (+1)
+938  622338 : 622337 (+1)
+941  626324 : 626325 (-1)
+944  630324 : 630323 (+1)
+950  638361 : 638360 (+1)
+952  641051 : 641050 (+1)
+954  643747 : 643746 (+1)
+962  654587 : 654586 (+1)
+974  671017 : 671016 (+1)
+978  676539 : 676538 (+1)
+986  687651 : 687650 (+1)
+988  690443 : 690442 (+1)
+990  693241 : 693240 (+1)
+991  694642 : 694641 (+1)
+992  696044 : 696043 (+1)
+994  698853 : 698852 (+1)
+995  700260 : 700259 (+1)
+996  701668 : 701667 (+1)
+998  704488 : 704487 (+1)
+1000  707314 : 707313 (+1)
+
+1000001  707108402320 : 707108402321 (-1)
+1000002  707109816536 : 707109816537 (-1)
+1000003  707111230753 : 707111230754 (-1)
+1000004  707112644972 : 707112644973 (-1)
+1000005  707114059192 : 707114059193 (-1)
+1000007  707116887637 : 707116887638 (-1)
+1000008  707118301861 : 707118301862 (-1)
+1000009  707119716087 : 707119716088 (-1)
+1000010  707121130314 : 707121130315 (-1)
+1000011  707122544543 : 707122544544 (-1)
+1000013  707125373004 : 707125373005 (-1)
+1000014  707126787237 : 707126787238 (-1)
+1000015  707128201471 : 707128201472 (-1)
+1000016  707129615707 : 707129615708 (-1)
+1000017  707131029944 : 707131029945 (-1)
+1000019  707133858423 : 707133858424 (-1)
+1000020  707135272664 : 707135272665 (-1)
+1000021  707136686907 : 707136686908 (-1)
+1000023  707139515397 : 707139515398 (-1)
+1000025  707142343892 : 707142343893 (-1)
+1000027  707145172393 : 707145172394 (-1)
+1000029  707148000900 : 707148000901 (-1)
+1000030  707149415155 : 707149415156 (-1)
+1000031  707150829412 : 707150829413 (-1)
+1000032  707152243670 : 707152243671 (-1)
+1000033  707153657930 : 707153657931 (-1)
+1000034  707155072191 : 707155072192 (-1)
+1000035  707156486454 : 707156486455 (-1)
+1000037  707159314983 : 707159314984 (-1)
+1000038  707160729250 : 707160729251 (-1)
+1000039  707162143518 : 707162143519 (-1)
+1000041  707164972059 : 707164972060 (-1)
+1000042  707166386331 : 707166386332 (-1)
+1000043  707167800605 : 707167800606 (-1)
+1000044  707169214880 : 707169214881 (-1)
+1000045  707170629157 : 707170629158 (-1)
+1000046  707172043435 : 707172043436 (-1)
+1000047  707173457715 : 707173457716 (-1)
+1000049  707176286278 : 707176286279 (-1)
+1000050  707177700562 : 707177700563 (-1)
+1000051  707179114847 : 707179114848 (-1)
+1000053  707181943422 : 707181943423 (-1)
+1000054  707183357711 : 707183357712 (-1)
+1000055  707184772002 : 707184772003 (-1)
+1000056  707186186294 : 707186186295 (-1)
+1000057  707187600588 : 707187600589 (-1)
+1000058  707189014883 : 707189014884 (-1)
+1000059  707190429180 : 707190429181 (-1)
+1000061  707193257777 : 707193257778 (-1)
+1000063  707196086380 : 707196086381 (-1)
+1000067  707201743603 : 707201743604 (-1)
+1000071  707207400848 : 707207400849 (-1)
+1000073  707210229479 : 707210229480 (-1)
+1000075  707213058116 : 707213058117 (-1)
+1000079  707218715407 : 707218715408 (-1)
+1000083  707224372720 : 707224372721 (-1)
+1000085  707227201385 : 707227201386 (-1)
+1000087  707230030056 : 707230030057 (-1)
+1000097  707244173495 : 707244173496 (-1)
+1000101  707249830910 : 707249830911 (-1)
+1000103  707252659626 : 707252659627 (-1)
+1000107  707258317075 : 707258317076 (-1)
+1000109  707261145808 : 707261145809 (-1)
+1000113  707266803291 : 707266803292 (-1)
+1000114  707268217665 : 707268217666 (-1)
+1000115  707269632041 : 707269632042 (-1)
+1000119  707275289558 : 707275289559 (-1)
+1000121  707278118325 : 707278118326 (-1)
+1000129  707289433449 : 707289433450 (-1)
+1000131  707292262244 : 707292262245 (-1)
+1000133  707295091045 : 707295091046 (-1)
+1000135  707297919852 : 707297919853 (-1)
+1000136  707299334257 : 707299334258 (-1)
+1000137  707300748664 : 707300748665 (-1)
+1000138  707302163072 : 707302163073 (-1)
+1000139  707303577482 : 707303577483 (-1)
+1000141  707306406305 : 707306406306 (-1)
+1000142  707307820719 : 707307820720 (-1)
+1000143  707309235134 : 707309235135 (-1)
+1000144  707310649551 : 707310649552 (-1)
+1000145  707312063969 : 707312063970 (-1)
+1000147  707314892810 : 707314892811 (-1)
+1000148  707316307232 : 707316307233 (-1)
+1000149  707317721656 : 707317721657 (-1)
+1000150  707319136081 : 707319136082 (-1)
+1000151  707320550508 : 707320550509 (-1)
+1000153  707323379365 : 707323379366 (-1)
+1000155  707326208228 : 707326208229 (-1)
+1000157  707329037097 : 707329037098 (-1)
+1000161  707334694852 : 707334694853 (-1)
+1000165  707340352629 : 707340352630 (-1)
+1000167  707343181526 : 707343181527 (-1)
+1000171  707348839337 : 707348839338 (-1)
+1000172  707350253793 : 707350253794 (-1)
+1000173  707351668251 : 707351668252 (-1)
+1000175  707354497171 : 707354497172 (-1)
+1000177  707357326096 : 707357326097 (-1)
+1000179  707360155027 : 707360155028 (-1)
+1000181  707362983964 : 707362983965 (-1)
+1000183  707365812906 : 707365812907 (-1)
+1000184  707367227379 : 707367227380 (-1)
+1000185  707368641854 : 707368641855 (-1)
+1000189  707374299767 : 707374299768 (-1)
+1000191  707377128732 : 707377128733 (-1)
+1000199  707388444648 : 707388444649 (-1)
+1000201  707391273641 : 707391273642 (-1)
+1000203  707394102640 : 707394102641 (-1)
+1000205  707396931645 : 707396931646 (-1)
+1000206  707398346149 : 707398346150 (-1)
+1000207  707399760655 : 707399760656 (-1)
+1000208  707401175162 : 707401175163 (-1)
+1000209  707402589671 : 707402589672 (-1)
+1000211  707405418692 : 707405418693 (-1)
+1000212  707406833205 : 707406833206 (-1)
+1000213  707408247719 : 707408247720 (-1)
+1000214  707409662235 : 707409662236 (-1)
+1000215  707411076752 : 707411076753 (-1)
+1000217  707413905791 : 707413905792 (-1)
+1000219  707416734835 : 707416734836 (-1)
+1000221  707419563885 : 707419563886 (-1)
+1000223  707422392940 : 707422392941 (-1)
+1000225  707425222001 : 707425222002 (-1)
+1000227  707428051068 : 707428051069 (-1)
+1000237  707442196487 : 707442196488 (-1)
+1000241  707447854694 : 707447854695 (-1)
+1000243  707450683806 : 707450683807 (-1)
+1000247  707456342047 : 707456342048 (-1)
+1000249  707459171176 : 707459171177 (-1)
+1000253  707464829451 : 707464829452 (-1)
+1000255  707467658597 : 707467658598 (-1)
+1000262  707477560653 : 707477560652 (+1)
+1000269  707487462777 : 707487462778 (-1)
+1000271  707490291968 : 707490291969 (-1)
+1000273  707493121165 : 707493121166 (-1)
+1000281  707504438009 : 707504438010 (-1)
+1000283  707507267234 : 707507267235 (-1)
+1000285  707510096465 : 707510096466 (-1)
+1000293  707521413445 : 707521413446 (-1)
+1000295  707524242704 : 707524242705 (-1)
+1000299  707529901239 : 707529901240 (-1)
+1000300  707531315876 : 707531315877 (-1)
+1000301  707532730515 : 707532730516 (-1)
+1000302  707534145155 : 707534145156 (-1)
+1000303  707535559797 : 707535559798 (-1)
+1000305  707538389084 : 707538389085 (-1)
+1000307  707541218377 : 707541218378 (-1)
+1000309  707544047676 : 707544047677 (-1)
+1000310  707545462327 : 707545462328 (-1)
+1000311  707546876980 : 707546876981 (-1)
+1000312  707548291634 : 707548291635 (-1)
+1000313  707549706290 : 707549706291 (-1)
+1000314  707551120947 : 707551120948 (-1)
+1000315  707552535606 : 707552535607 (-1)
+1000317  707555364927 : 707555364928 (-1)
+1000319  707558194254 : 707558194255 (-1)
+1000321  707561023587 : 707561023588 (-1)
+1000322  707562438255 : 707562438256 (-1)
+1000323  707563852925 : 707563852926 (-1)
+1000324  707565267596 : 707565267597 (-1)
+1000325  707566682269 : 707566682270 (-1)
+1000329  707572340974 : 707572340975 (-1)
+1000331  707575170335 : 707575170336 (-1)
+1000339  707586487835 : 707586487836 (-1)
+1000341  707589317224 : 707589317225 (-1)
+
+----------------------------------------------------------------------------------------------------
+
+func(1*0.4142) + func(2*0.4142) + func(3*0.4142) + func(4*0.4142)
+OR
+floor(1*0.4142) + floor(2*0.4142) + floor(3*0.4142) + floor(4*0.4142)
+
+ (1*0.4142 - 0) + 
+ (2*0.4142 - 0) + 
+ (3*0.4142 - 1) + 
+ (4*0.4142 - 1) + 
+ (5*0.4142 - 2) + 
+ (6*0.4142 - 2) + 
+ (7*0.4142 - 2) + 
+ (8*0.4142 - 3) + 
+ (9*0.4142 - 3) + 
+(10*0.4142 - 4)
+
+
+1 : 0.414213562 = 0.414213562 (1)
+2 : 0.828427124 = 1.242640686 (3)
+3 : 0.242640686 = 1.485281372 (6)
+4 : 0.656854248 = 2.142135620 (10)
+5 : 0.071067810 = 2.213203430 (15)
+6 : 0.485281372 = 2.698484802 (21)
+7 : 0.899494934 = 3.597979736 (28)
+8 : 0.313708496 = 3.911688232 (36)
+9 : 0.727922058 = 4.639610290 (45)
+10 : 0.142135620 = 4.781745910 (55)
+11 : 0.556349182 = 5.338095092 (66)
+12 : 0.970562744 = 6.308657836 (78)
+13 : 0.384776306 = 6.693434142 (91)
+14 : 0.798989868 = 7.492424010 (105)
+15 : 0.213203430 = 7.705627440 (120)
+16 : 0.627416992 = 8.333044432 (136)
+17 : 0.041630554 = 8.374674986 (153)
+18 : 0.455844116 = 8.830519102 (171)
+19 : 0.870057678 = 9.700576780 (190)
+20 : 0.284271240 = 9.984848020 (210)
+21 : 0.698484802 = 10.683332822 (231)
+22 : 0.112698364 = 10.796031186 (253)
+23 : 0.526911926 = 11.322943112 (276)
+24 : 0.941125488 = 12.264068600 (300)
+25 : 0.355339050 = 12.619407650 (325)
+26 : 0.769552612 = 13.388960262 (351)
+27 : 0.183766174 = 13.572726436 (378)
+28 : 0.597979736 = 14.170706172 (406)
+29 : 0.012193298 = 14.182899470 (435)
+30 : 0.426406860 = 14.609306330 (465)
+31 : 0.840620422 = 15.449926752 (496)
+32 : 0.254833984 = 15.704760736 (528)
+33 : 0.669047546 = 16.373808282 (561)
+34 : 0.083261108 = 16.457069390 (595)
+35 : 0.497474670 = 16.954544060 (630)
+36 : 0.911688232 = 17.866232292 (666)
+37 : 0.325901794 = 18.192134086 (703)
+38 : 0.740115356 = 18.932249442 (741)
+39 : 0.154328918 = 19.086578360 (780)
+40 : 0.568542480 = 19.655120840 (820)
+41 : 0.982756042 = 20.637876882 (861)
+42 : 0.396969604 = 21.034846486 (903)
+43 : 0.811183166 = 21.846029652 (946)
+44 : 0.225396728 = 22.071426380 (990)
+45 : 0.639610290 = 22.711036670 (1035)
+46 : 0.053823852 = 22.764860522 (1081)
+47 : 0.468037414 = 23.232897936 (1128)
+48 : 0.882250976 = 24.115148912 (1176)
+49 : 0.296464538 = 24.411613450 (1225)
+50 : 0.710678100 = 25.122291550 (1275)
+51 : 0.124891662 = 25.247183212 (1326)
+52 : 0.539105224 = 25.786288436 (1378)
+53 : 0.953318786 = 26.739607222 (1431)
+54 : 0.367532348 = 27.107139570 (1485)
+55 : 0.781745910 = 27.888885480 (1540)
+56 : 0.195959472 = 28.084844952 (1596)
+57 : 0.610173034 = 28.695017986 (1653)
+58 : 0.024386596 = 28.719404582 (1711)
+59 : 0.438600158 = 29.158004740 (1770)
+60 : 0.852813720 = 30.010818460 (1830)
+61 : 0.267027282 = 30.277845742 (1891)
+62 : 0.681240844 = 30.959086586 (1953)
+63 : 0.095454406 = 31.054540992 (2016)
+64 : 0.509667968 = 31.564208960 (2080)
+65 : 0.923881530 = 32.488090490 (2145)
+66 : 0.338095092 = 32.826185582 (2211)
+67 : 0.752308654 = 33.578494236 (2278)
+68 : 0.166522216 = 33.745016452 (2346)
+69 : 0.580735778 = 34.325752230 (2415)
+70 : 0.994949340 = 35.320701570 (2485)
+71 : 0.409162902 = 35.729864472 (2556)
+72 : 0.823376464 = 36.553240936 (2628)
+73 : 0.237590026 = 36.790830962 (2701)
+74 : 0.651803588 = 37.442634550 (2775)
+75 : 0.066017150 = 37.508651700 (2850)
+76 : 0.480230712 = 37.988882412 (2926)
+77 : 0.894444274 = 38.883326686 (3003)
+78 : 0.308657836 = 39.191984522 (3081)
+79 : 0.722871398 = 39.914855920 (3160)
+80 : 0.137084960 = 40.051940880 (3240)
+81 : 0.551298522 = 40.603239402 (3321)
+82 : 0.965512084 = 41.568751486 (3403)
+83 : 0.379725646 = 41.948477132 (3486)
+84 : 0.793939208 = 42.742416340 (3570)
+85 : 0.208152770 = 42.950569110 (3655)
+86 : 0.622366332 = 43.572935442 (3741)
+87 : 0.036579894 = 43.609515336 (3828)
+88 : 0.450793456 = 44.060308792 (3916)
+89 : 0.865007018 = 44.925315810 (4005)
+90 : 0.279220580 = 45.204536390 (4095)
+91 : 0.693434142 = 45.897970532 (4186)
+92 : 0.107647704 = 46.005618236 (4278)
+93 : 0.521861266 = 46.527479502 (4371)
+94 : 0.936074828 = 47.463554330 (4465)
+95 : 0.350288390 = 47.813842720 (4560)
+96 : 0.764501952 = 48.578344672 (4656)
+97 : 0.178715514 = 48.757060186 (4753)
+98 : 0.592929076 = 49.349989262 (4851)
+99 : 0.007142638 = 49.357131900 (4950)
+100 : 0.421356200 = 49.778488100 (5050)
+101 : 0.835569762 = 50.614057862 (5151)
+102 : 0.249783324 = 50.863841186 (5253)
+103 : 0.663996886 = 51.527838072 (5356)
+104 : 0.078210448 = 51.606048520 (5460)
+105 : 0.492424010 = 52.098472530 (5565)
+106 : 0.906637572 = 53.005110102 (5671)
+107 : 0.320851134 = 53.325961236 (5778)
+108 : 0.735064696 = 54.061025932 (5886)
+109 : 0.149278258 = 54.210304190 (5995)
+110 : 0.563491820 = 54.773796010 (6105)
+111 : 0.977705382 = 55.751501392 (6216)
+112 : 0.391918944 = 56.143420336 (6328)
+113 : 0.806132506 = 56.949552842 (6441)
+114 : 0.220346068 = 57.169898910 (6555)
+115 : 0.634559630 = 57.804458540 (6670)
+116 : 0.048773192 = 57.853231732 (6786)
+117 : 0.462986754 = 58.316218486 (6903)
+118 : 0.877200316 = 59.193418802 (7021)
+119 : 0.291413878 = 59.484832680 (7140)
+120 : 0.705627440 = 60.190460120 (7260)
+121 : 0.119841002 = 60.310301122 (7381)
+122 : 0.534054564 = 60.844355686 (7503)
+123 : 0.948268126 = 61.792623812 (7626)
+124 : 0.362481688 = 62.155105500 (7750)
+125 : 0.776695250 = 62.931800750 (7875)
+126 : 0.190908812 = 63.122709562 (8001)
+127 : 0.605122374 = 63.727831936 (8128)
+128 : 0.019335936 = 63.747167872 (8256)
+129 : 0.433549498 = 64.180717370 (8385)
+130 : 0.847763060 = 65.028480430 (8515)
+131 : 0.261976622 = 65.290457052 (8646)
+132 : 0.676190184 = 65.966647236 (8778)
+133 : 0.090403746 = 66.057050982 (8911)
+134 : 0.504617308 = 66.561668290 (9045)
+135 : 0.918830870 = 67.480499160 (9180)
+136 : 0.333044432 = 67.813543592 (9316)
+137 : 0.747257994 = 68.560801586 (9453)
+138 : 0.161471556 = 68.722273142 (9591)
+139 : 0.575685118 = 69.297958260 (9730)
+140 : 0.989898680 = 70.287856940 (9870)
+141 : 0.404112242 = 70.691969182 (10011)
+142 : 0.818325804 = 71.510294986 (10153)
+143 : 0.232539366 = 71.742834352 (10296)
+144 : 0.646752928 = 72.389587280 (10440)
+145 : 0.060966490 = 72.450553770 (10585)
+146 : 0.475180052 = 72.925733822 (10731)
+147 : 0.889393614 = 73.815127436 (10878)
+148 : 0.303607176 = 74.118734612 (11026)
+149 : 0.717820738 = 74.836555350 (11175)
+150 : 0.132034300 = 74.968589650 (11325)
+151 : 0.546247862 = 75.514837512 (11476)
+152 : 0.960461424 = 76.475298936 (11628)
+153 : 0.374674986 = 76.849973922 (11781)
+154 : 0.788888548 = 77.638862470 (11935)
+155 : 0.203102110 = 77.841964580 (12090)
+156 : 0.617315672 = 78.459280252 (12246)
+157 : 0.031529234 = 78.490809486 (12403)
+158 : 0.445742796 = 78.936552282 (12561)
+159 : 0.859956358 = 79.796508640 (12720)
+160 : 0.274169920 = 80.070678560 (12880)
+161 : 0.688383482 = 80.759062042 (13041)
+162 : 0.102597044 = 80.861659086 (13203)
+163 : 0.516810606 = 81.378469692 (13366)
+164 : 0.931024168 = 82.309493860 (13530)
+165 : 0.345237730 = 82.654731590 (13695)
+166 : 0.759451292 = 83.414182882 (13861)
+167 : 0.173664854 = 83.587847736 (14028)
+168 : 0.587878416 = 84.175726152 (14196)
+169 : 0.002091978 = 84.177818130 (14365)
+170 : 0.416305540 = 84.594123670 (14535)
+171 : 0.830519102 = 85.424642772 (14706)
+172 : 0.244732664 = 85.669375436 (14878)
+173 : 0.658946226 = 86.328321662 (15051)
+174 : 0.073159788 = 86.401481450 (15225)
+175 : 0.487373350 = 86.888854800 (15400)
+176 : 0.901586912 = 87.790441712 (15576)
+177 : 0.315800474 = 88.106242186 (15753)
+178 : 0.730014036 = 88.836256222 (15931)
+179 : 0.144227598 = 88.980483820 (16110)
+180 : 0.558441160 = 89.538924980 (16290)
+181 : 0.972654722 = 90.511579702 (16471)
+182 : 0.386868284 = 90.898447986 (16653)
+183 : 0.801081846 = 91.699529832 (16836)
+184 : 0.215295408 = 91.914825240 (17020)
+185 : 0.629508970 = 92.544334210 (17205)
+186 : 0.043722532 = 92.588056742 (17391)
+187 : 0.457936094 = 93.045992836 (17578)
+188 : 0.872149656 = 93.918142492 (17766)
+189 : 0.286363218 = 94.204505710 (17955)
+190 : 0.700576780 = 94.905082490 (18145)
+191 : 0.114790342 = 95.019872832 (18336)
+192 : 0.529003904 = 95.548876736 (18528)
+193 : 0.943217466 = 96.492094202 (18721)
+194 : 0.357431028 = 96.849525230 (18915)
+195 : 0.771644590 = 97.621169820 (19110)
+196 : 0.185858152 = 97.807027972 (19306)
+197 : 0.600071714 = 98.407099686 (19503)
+198 : 0.014285276 = 98.421384962 (19701)
+199 : 0.428498838 = 98.849883800 (19900)
+200 : 0.842712400 = 99.692596200 (20100)
+201 : 0.256925962 = 99.949522162 (20301)
+202 : 0.671139524 = 100.620661686 (20503)
+203 : 0.085353086 = 100.706014772 (20706)
+204 : 0.499566648 = 101.205581420 (20910)
+205 : 0.913780210 = 102.119361630 (21115)
+206 : 0.327993772 = 102.447355402 (21321)
+207 : 0.742207334 = 103.189562736 (21528)
+208 : 0.156420896 = 103.345983632 (21736)
+209 : 0.570634458 = 103.916618090 (21945)
+210 : 0.984848020 = 104.901466110 (22155)
+211 : 0.399061582 = 105.300527692 (22366)
+212 : 0.813275144 = 106.113802836 (22578)
+213 : 0.227488706 = 106.341291542 (22791)
+214 : 0.641702268 = 106.982993810 (23005)
+215 : 0.055915830 = 107.038909640 (23220)
+216 : 0.470129392 = 107.509039032 (23436)
+217 : 0.884342954 = 108.393381986 (23653)
+218 : 0.298556516 = 108.691938502 (23871)
+219 : 0.712770078 = 109.404708580 (24090)
+220 : 0.126983640 = 109.531692220 (24310)
+221 : 0.541197202 = 110.072889422 (24531)
+222 : 0.955410764 = 111.028300186 (24753)
+223 : 0.369624326 = 111.397924512 (24976)
+224 : 0.783837888 = 112.181762400 (25200)
+225 : 0.198051450 = 112.379813850 (25425)
+226 : 0.612265012 = 112.992078862 (25651)
+227 : 0.026478574 = 113.018557436 (25878)
+228 : 0.440692136 = 113.459249572 (26106)
+229 : 0.854905698 = 114.314155270 (26335)
+230 : 0.269119260 = 114.583274530 (26565)
+231 : 0.683332822 = 115.266607352 (26796)
+232 : 0.097546384 = 115.364153736 (27028)
+233 : 0.511759946 = 115.875913682 (27261)
+234 : 0.925973508 = 116.801887190 (27495)
+235 : 0.340187070 = 117.142074260 (27730)
+236 : 0.754400632 = 117.896474892 (27966)
+237 : 0.168614194 = 118.065089086 (28203)
+238 : 0.582827756 = 118.647916842 (28441)
+239 : 0.997041318 = 119.644958160 (28680)
+240 : 0.411254880 = 120.056213040 (28920)
+241 : 0.825468442 = 120.881681482 (29161)
+242 : 0.239682004 = 121.121363486 (29403)
+243 : 0.653895566 = 121.775259052 (29646)
+244 : 0.068109128 = 121.843368180 (29890)
+245 : 0.482322690 = 122.325690870 (30135)
+246 : 0.896536252 = 123.222227122 (30381)
+247 : 0.310749814 = 123.532976936 (30628)
+248 : 0.724963376 = 124.257940312 (30876)
+249 : 0.139176938 = 124.397117250 (31125)
+250 : 0.553390500 = 124.950507750 (31375)
+251 : 0.967604062 = 125.918111812 (31626)
+252 : 0.381817624 = 126.299929436 (31878)
+253 : 0.796031186 = 127.095960622 (32131)
+254 : 0.210244748 = 127.306205370 (32385)
+255 : 0.624458310 = 127.930663680 (32640)
+256 : 0.038671872 = 127.969335552 (32896)
+257 : 0.452885434 = 128.422220986 (33153)
+258 : 0.867098996 = 129.289319982 (33411)
+259 : 0.281312558 = 129.570632540 (33670)
+260 : 0.695526120 = 130.266158660 (33930)
+261 : 0.109739682 = 130.375898342 (34191)
+262 : 0.523953244 = 130.899851586 (34453)
+263 : 0.938166806 = 131.838018392 (34716)
+264 : 0.352380368 = 132.190398760 (34980)
+265 : 0.766593930 = 132.956992690 (35245)
+266 : 0.180807492 = 133.137800182 (35511)
+267 : 0.595021054 = 133.732821236 (35778)
+268 : 0.009234616 = 133.742055852 (36046)
+269 : 0.423448178 = 134.165504030 (36315)
+270 : 0.837661740 = 135.003165770 (36585)
+271 : 0.251875302 = 135.255041072 (36856)
+272 : 0.666088864 = 135.921129936 (37128)
+273 : 0.080302426 = 136.001432362 (37401)
+274 : 0.494515988 = 136.495948350 (37675)
+275 : 0.908729550 = 137.404677900 (37950)
+276 : 0.322943112 = 137.727621012 (38226)
+277 : 0.737156674 = 138.464777686 (38503)
+278 : 0.151370236 = 138.616147922 (38781)
+279 : 0.565583798 = 139.181731720 (39060)
+280 : 0.979797360 = 140.161529080 (39340)
+281 : 0.394010922 = 140.555540002 (39621)
+282 : 0.808224484 = 141.363764486 (39903)
+283 : 0.222438046 = 141.586202532 (40186)
+284 : 0.636651608 = 142.222854140 (40470)
+285 : 0.050865170 = 142.273719310 (40755)
+286 : 0.465078732 = 142.738798042 (41041)
+287 : 0.879292294 = 143.618090336 (41328)
+288 : 0.293505856 = 143.911596192 (41616)
+289 : 0.707719418 = 144.619315610 (41905)
+290 : 0.121932980 = 144.741248590 (42195)
+291 : 0.536146542 = 145.277395132 (42486)
+292 : 0.950360104 = 146.227755236 (42778)
+293 : 0.364573666 = 146.592328902 (43071)
+294 : 0.778787228 = 147.371116130 (43365)
+295 : 0.193000790 = 147.564116920 (43660)
+296 : 0.607214352 = 148.171331272 (43956)
+297 : 0.021427914 = 148.192759186 (44253)
+298 : 0.435641476 = 148.628400662 (44551)
+299 : 0.849855038 = 149.478255700 (44850)
+300 : 0.264068600 = 149.742324300 (45150)
+301 : 0.678282162 = 150.420606462 (45451)
+302 : 0.092495724 = 150.513102186 (45753)
+303 : 0.506709286 = 151.019811472 (46056)
+304 : 0.920922848 = 151.940734320 (46360)
+305 : 0.335136410 = 152.275870730 (46665)
+306 : 0.749349972 = 153.025220702 (46971)
+307 : 0.163563534 = 153.188784236 (47278)
+308 : 0.577777096 = 153.766561332 (47586)
+309 : 0.991990658 = 154.758551990 (47895)
+310 : 0.406204220 = 155.164756210 (48205)
+311 : 0.820417782 = 155.985173992 (48516)
+312 : 0.234631344 = 156.219805336 (48828)
+313 : 0.648844906 = 156.868650242 (49141)
+314 : 0.063058468 = 156.931708710 (49455)
+315 : 0.477272030 = 157.408980740 (49770)
+316 : 0.891485592 = 158.300466332 (50086)
+317 : 0.305699154 = 158.606165486 (50403)
+318 : 0.719912716 = 159.326078202 (50721)
+319 : 0.134126278 = 159.460204480 (51040)
+320 : 0.548339840 = 160.008544320 (51360)
+321 : 0.962553402 = 160.971097722 (51681)
+322 : 0.376766964 = 161.347864686 (52003)
+323 : 0.790980526 = 162.138845212 (52326)
+324 : 0.205194088 = 162.344039300 (52650)
+325 : 0.619407650 = 162.963446950 (52975)
+326 : 0.033621212 = 162.997068162 (53301)
+327 : 0.447834774 = 163.444902936 (53628)
+328 : 0.862048336 = 164.306951272 (53956)
+329 : 0.276261898 = 164.583213170 (54285)
+330 : 0.690475460 = 165.273688630 (54615)
+331 : 0.104689022 = 165.378377652 (54946)
+332 : 0.518902584 = 165.897280236 (55278)
+333 : 0.933116146 = 166.830396382 (55611)
+334 : 0.347329708 = 167.177726090 (55945)
+335 : 0.761543270 = 167.939269360 (56280)
+336 : 0.175756832 = 168.115026192 (56616)
+337 : 0.589970394 = 168.704996586 (56953)
+338 : 0.004183956 = 168.709180542 (57291)
+339 : 0.418397518 = 169.127578060 (57630)
+340 : 0.832611080 = 169.960189140 (57970)
+341 : 0.246824642 = 170.207013782 (58311)
+342 : 0.661038204 = 170.868051986 (58653)
+343 : 0.075251766 = 170.943303752 (58996)
+344 : 0.489465328 = 171.432769080 (59340)
+345 : 0.903678890 = 172.336447970 (59685)
+346 : 0.317892452 = 172.654340422 (60031)
+347 : 0.732106014 = 173.386446436 (60378)
+348 : 0.146319576 = 173.532766012 (60726)
+349 : 0.560533138 = 174.093299150 (61075)
+350 : 0.974746700 = 175.068045850 (61425)
+351 : 0.388960262 = 175.457006112 (61776)
+352 : 0.803173824 = 176.260179936 (62128)
+353 : 0.217387386 = 176.477567322 (62481)
+354 : 0.631600948 = 177.109168270 (62835)
+355 : 0.045814510 = 177.154982780 (63190)
+356 : 0.460028072 = 177.615010852 (63546)
+357 : 0.874241634 = 178.489252486 (63903)
+358 : 0.288455196 = 178.777707682 (64261)
+359 : 0.702668758 = 179.480376440 (64620)
+360 : 0.116882320 = 179.597258760 (64980)
+361 : 0.531095882 = 180.128354642 (65341)
+362 : 0.945309444 = 181.073664086 (65703)
+363 : 0.359523006 = 181.433187092 (66066)
+364 : 0.773736568 = 182.206923660 (66430)
+365 : 0.187950130 = 182.394873790 (66795)
+366 : 0.602163692 = 182.997037482 (67161)
+367 : 0.016377254 = 183.013414736 (67528)
+368 : 0.430590816 = 183.444005552 (67896)
+369 : 0.844804378 = 184.288809930 (68265)
+370 : 0.259017940 = 184.547827870 (68635)
+371 : 0.673231502 = 185.221059372 (69006)
+372 : 0.087445064 = 185.308504436 (69378)
+373 : 0.501658626 = 185.810163062 (69751)
+374 : 0.915872188 = 186.726035250 (70125)
+375 : 0.330085750 = 187.056121000 (70500)
+376 : 0.744299312 = 187.800420312 (70876)
+377 : 0.158512874 = 187.958933186 (71253)
+378 : 0.572726436 = 188.531659622 (71631)
+379 : 0.986939998 = 189.518599620 (72010)
+380 : 0.401153560 = 189.919753180 (72390)
+381 : 0.815367122 = 190.735120302 (72771)
+382 : 0.229580684 = 190.964700986 (73153)
+383 : 0.643794246 = 191.608495232 (73536)
+384 : 0.058007808 = 191.666503040 (73920)
+385 : 0.472221370 = 192.138724410 (74305)
+386 : 0.886434932 = 193.025159342 (74691)
+387 : 0.300648494 = 193.325807836 (75078)
+388 : 0.714862056 = 194.040669892 (75466)
+389 : 0.129075618 = 194.169745510 (75855)
+390 : 0.543289180 = 194.713034690 (76245)
+391 : 0.957502742 = 195.670537432 (76636)
+392 : 0.371716304 = 196.042253736 (77028)
+393 : 0.785929866 = 196.828183602 (77421)
+394 : 0.200143428 = 197.028327030 (77815)
+395 : 0.614356990 = 197.642684020 (78210)
+396 : 0.028570552 = 197.671254572 (78606)
+397 : 0.442784114 = 198.114038686 (79003)
+398 : 0.856997676 = 198.971036362 (79401)
+399 : 0.271211238 = 199.242247600 (79800)
+400 : 0.685424800 = 199.927672400 (80200)
+401 : 0.099638362 = 200.027310762 (80601)
+402 : 0.513851924 = 200.541162686 (81003)
+403 : 0.928065486 = 201.469228172 (81406)
+404 : 0.342279048 = 201.811507220 (81810)
+405 : 0.756492610 = 202.567999830 (82215)
+406 : 0.170706172 = 202.738706002 (82621)
+407 : 0.584919734 = 203.323625736 (83028)
+408 : 0.999133296 = 204.322759032 (83436)
+409 : 0.413346858 = 204.736105890 (83845)
+410 : 0.827560420 = 205.563666310 (84255)
+411 : 0.241773982 = 205.805440292 (84666)
+412 : 0.655987544 = 206.461427836 (85078)
+413 : 0.070201106 = 206.531628942 (85491)
+414 : 0.484414668 = 207.016043610 (85905)
+415 : 0.898628230 = 207.914671840 (86320)
+416 : 0.312841792 = 208.227513632 (86736)
+417 : 0.727055354 = 208.954568986 (87153)
+418 : 0.141268916 = 209.095837902 (87571)
+419 : 0.555482478 = 209.651320380 (87990)
+420 : 0.969696040 = 210.621016420 (88410)
+421 : 0.383909602 = 211.004926022 (88831)
+422 : 0.798123164 = 211.803049186 (89253)
+423 : 0.212336726 = 212.015385912 (89676)
+424 : 0.626550288 = 212.641936200 (90100)
+425 : 0.040763850 = 212.682700050 (90525)
+426 : 0.454977412 = 213.137677462 (90951)
+427 : 0.869190974 = 214.006868436 (91378)
+428 : 0.283404536 = 214.290272972 (91806)
+429 : 0.697618098 = 214.987891070 (92235)
+430 : 0.111831660 = 215.099722730 (92665)
+431 : 0.526045222 = 215.625767952 (93096)
+432 : 0.940258784 = 216.566026736 (93528)
+433 : 0.354472346 = 216.920499082 (93961)
+434 : 0.768685908 = 217.689184990 (94395)
+435 : 0.182899470 = 217.872084460 (94830)
+436 : 0.597113032 = 218.469197492 (95266)
+437 : 0.011326594 = 218.480524086 (95703)
+438 : 0.425540156 = 218.906064242 (96141)
+439 : 0.839753718 = 219.745817960 (96580)
+440 : 0.253967280 = 219.999785240 (97020)
+441 : 0.668180842 = 220.667966082 (97461)
+442 : 0.082394404 = 220.750360486 (97903)
+443 : 0.496607966 = 221.246968452 (98346)
+444 : 0.910821528 = 222.157789980 (98790)
+445 : 0.325035090 = 222.482825070 (99235)
+446 : 0.739248652 = 223.222073722 (99681)
+447 : 0.153462214 = 223.375535936 (100128)
+448 : 0.567675776 = 223.943211712 (100576)
+449 : 0.981889338 = 224.925101050 (101025)
+450 : 0.396102900 = 225.321203950 (101475)
+451 : 0.810316462 = 226.131520412 (101926)
+452 : 0.224530024 = 226.356050436 (102378)
+453 : 0.638743586 = 226.994794022 (102831)
+454 : 0.052957148 = 227.047751170 (103285)
+455 : 0.467170710 = 227.514921880 (103740)
+456 : 0.881384272 = 228.396306152 (104196)
+457 : 0.295597834 = 228.691903986 (104653)
+458 : 0.709811396 = 229.401715382 (105111)
+459 : 0.124024958 = 229.525740340 (105570)
+460 : 0.538238520 = 230.063978860 (106030)
+461 : 0.952452082 = 231.016430942 (106491)
+462 : 0.366665644 = 231.383096586 (106953)
+463 : 0.780879206 = 232.163975792 (107416)
+464 : 0.195092768 = 232.359068560 (107880)
+465 : 0.609306330 = 232.968374890 (108345)
+466 : 0.023519892 = 232.991894782 (108811)
+467 : 0.437733454 = 233.429628236 (109278)
+468 : 0.851947016 = 234.281575252 (109746)
+469 : 0.266160578 = 234.547735830 (110215)
+470 : 0.680374140 = 235.228109970 (110685)
+471 : 0.094587702 = 235.322697672 (111156)
+472 : 0.508801264 = 235.831498936 (111628)
+473 : 0.923014826 = 236.754513762 (112101)
+474 : 0.337228388 = 237.091742150 (112575)
+475 : 0.751441950 = 237.843184100 (113050)
+476 : 0.165655512 = 238.008839612 (113526)
+477 : 0.579869074 = 238.588708686 (114003)
+478 : 0.994082636 = 239.582791322 (114481)
+479 : 0.408296198 = 239.991087520 (114960)
+480 : 0.822509760 = 240.813597280 (115440)
+481 : 0.236723322 = 241.050320602 (115921)
+482 : 0.650936884 = 241.701257486 (116403)
+483 : 0.065150446 = 241.766407932 (116886)
+484 : 0.479364008 = 242.245771940 (117370)
+485 : 0.893577570 = 243.139349510 (117855)
+486 : 0.307791132 = 243.447140642 (118341)
+487 : 0.722004694 = 244.169145336 (118828)
+488 : 0.136218256 = 244.305363592 (119316)
+489 : 0.550431818 = 244.855795410 (119805)
+490 : 0.964645380 = 245.820440790 (120295)
+491 : 0.378858942 = 246.199299732 (120786)
+492 : 0.793072504 = 246.992372236 (121278)
+493 : 0.207286066 = 247.199658302 (121771)
+494 : 0.621499628 = 247.821157930 (122265)
+495 : 0.035713190 = 247.856871120 (122760)
+496 : 0.449926752 = 248.306797872 (123256)
+497 : 0.864140314 = 249.170938186 (123753)
+498 : 0.278353876 = 249.449292062 (124251)
+499 : 0.692567438 = 250.141859500 (124750)
+500 : 0.106781000 = 250.248640500 (125250)
+501 : 0.520994562 = 250.769635062 (125751)
+502 : 0.935208124 = 251.704843186 (126253)
+503 : 0.349421686 = 252.054264872 (126756)
+504 : 0.763635248 = 252.817900120 (127260)
+505 : 0.177848810 = 252.995748930 (127765)
+506 : 0.592062372 = 253.587811302 (128271)
+507 : 0.006275934 = 253.594087236 (128778)
+508 : 0.420489496 = 254.014576732 (129286)
+509 : 0.834703058 = 254.849279790 (129795)
+510 : 0.248916620 = 255.098196410 (130305)
+511 : 0.663130182 = 255.761326592 (130816)
+512 : 0.077343744 = 255.838670336 (131328)
+513 : 0.491557306 = 256.330227642 (131841)
+514 : 0.905770868 = 257.235998510 (132355)
+515 : 0.319984430 = 257.555982940 (132870)
+516 : 0.734197992 = 258.290180932 (133386)
+517 : 0.148411554 = 258.438592486 (133903)
+518 : 0.562625116 = 259.001217602 (134421)
+519 : 0.976838678 = 259.978056280 (134940)
+520 : 0.391052240 = 260.369108520 (135460)
+521 : 0.805265802 = 261.174374322 (135981)
+522 : 0.219479364 = 261.393853686 (136503)
+523 : 0.633692926 = 262.027546612 (137026)
+524 : 0.047906488 = 262.075453100 (137550)
+525 : 0.462120050 = 262.537573150 (138075)
+526 : 0.876333612 = 263.413906762 (138601)
+527 : 0.290547174 = 263.704453936 (139128)
+528 : 0.704760736 = 264.409214672 (139656)
+529 : 0.118974298 = 264.528188970 (140185)
+530 : 0.533187860 = 265.061376830 (140715)
+531 : 0.947401422 = 266.008778252 (141246)
+532 : 0.361614984 = 266.370393236 (141778)
+533 : 0.775828546 = 267.146221782 (142311)
+534 : 0.190042108 = 267.336263890 (142845)
+535 : 0.604255670 = 267.940519560 (143380)
+536 : 0.018469232 = 267.958988792 (143916)
+537 : 0.432682794 = 268.391671586 (144453)
+538 : 0.846896356 = 269.238567942 (144991)
+539 : 0.261109918 = 269.499677860 (145530)
+540 : 0.675323480 = 270.175001340 (146070)
+541 : 0.089537042 = 270.264538382 (146611)
+542 : 0.503750604 = 270.768288986 (147153)
+543 : 0.917964166 = 271.686253152 (147696)
+544 : 0.332177728 = 272.018430880 (148240)
+545 : 0.746391290 = 272.764822170 (148785)
+546 : 0.160604852 = 272.925427022 (149331)
+547 : 0.574818414 = 273.500245436 (149878)
+548 : 0.989031976 = 274.489277412 (150426)
+549 : 0.403245538 = 274.892522950 (150975)
+550 : 0.817459100 = 275.709982050 (151525)
+551 : 0.231672662 = 275.941654712 (152076)
+552 : 0.645886224 = 276.587540936 (152628)
+553 : 0.060099786 = 276.647640722 (153181)
+554 : 0.474313348 = 277.121954070 (153735)
+555 : 0.888526910 = 278.010480980 (154290)
+556 : 0.302740472 = 278.313221452 (154846)
+557 : 0.716954034 = 279.030175486 (155403)
+558 : 0.131167596 = 279.161343082 (155961)
+559 : 0.545381158 = 279.706724240 (156520)
+560 : 0.959594720 = 280.666318960 (157080)
+561 : 0.373808282 = 281.040127242 (157641)
+562 : 0.788021844 = 281.828149086 (158203)
+563 : 0.202235406 = 282.030384492 (158766)
+564 : 0.616448968 = 282.646833460 (159330)
+565 : 0.030662530 = 282.677495990 (159895)
+566 : 0.444876092 = 283.122372082 (160461)
+567 : 0.859089654 = 283.981461736 (161028)
+568 : 0.273303216 = 284.254764952 (161596)
+569 : 0.687516778 = 284.942281730 (162165)
+570 : 0.101730340 = 285.044012070 (162735)
+571 : 0.515943902 = 285.559955972 (163306)
+572 : 0.930157464 = 286.490113436 (163878)
+573 : 0.344371026 = 286.834484462 (164451)
+574 : 0.758584588 = 287.593069050 (165025)
+575 : 0.172798150 = 287.765867200 (165600)
+576 : 0.587011712 = 288.352878912 (166176)
+577 : 0.001225274 = 288.354104186 (166753)
+578 : 0.415438836 = 288.769543022 (167331)
+579 : 0.829652398 = 289.599195420 (167910)
+580 : 0.243865960 = 289.843061380 (168490)
+581 : 0.658079522 = 290.501140902 (169071)
+582 : 0.072293084 = 290.573433986 (169653)
+583 : 0.486506646 = 291.059940632 (170236)
+584 : 0.900720208 = 291.960660840 (170820)
+585 : 0.314933770 = 292.275594610 (171405)
+586 : 0.729147332 = 293.004741942 (171991)
+587 : 0.143360894 = 293.148102836 (172578)
+588 : 0.557574456 = 293.705677292 (173166)
+589 : 0.971788018 = 294.677465310 (173755)
+590 : 0.386001580 = 295.063466890 (174345)
+591 : 0.800215142 = 295.863682032 (174936)
+592 : 0.214428704 = 296.078110736 (175528)
+593 : 0.628642266 = 296.706753002 (176121)
+594 : 0.042855828 = 296.749608830 (176715)
+595 : 0.457069390 = 297.206678220 (177310)
+596 : 0.871282952 = 298.077961172 (177906)
+597 : 0.285496514 = 298.363457686 (178503)
+598 : 0.699710076 = 299.063167762 (179101)
+599 : 0.113923638 = 299.177091400 (179700)
+600 : 0.528137200 = 299.705228600 (180300)
+601 : 0.942350762 = 300.647579362 (180901)
+602 : 0.356564324 = 301.004143686 (181503)
+603 : 0.770777886 = 301.774921572 (182106)
+604 : 0.184991448 = 301.959913020 (182710)
+605 : 0.599205010 = 302.559118030 (183315)
+606 : 0.013418572 = 302.572536602 (183921)
+607 : 0.427632134 = 303.000168736 (184528)
+608 : 0.841845696 = 303.842014432 (185136)
+609 : 0.256059258 = 304.098073690 (185745)
+610 : 0.670272820 = 304.768346510 (186355)
+611 : 0.084486382 = 304.852832892 (186966)
+612 : 0.498699944 = 305.351532836 (187578)
+613 : 0.912913506 = 306.264446342 (188191)
+614 : 0.327127068 = 306.591573410 (188805)
+615 : 0.741340630 = 307.332914040 (189420)
+616 : 0.155554192 = 307.488468232 (190036)
+617 : 0.569767754 = 308.058235986 (190653)
+618 : 0.983981316 = 309.042217302 (191271)
+619 : 0.398194878 = 309.440412180 (191890)
+620 : 0.812408440 = 310.252820620 (192510)
+621 : 0.226622002 = 310.479442622 (193131)
+622 : 0.640835564 = 311.120278186 (193753)
+623 : 0.055049126 = 311.175327312 (194376)
+624 : 0.469262688 = 311.644590000 (195000)
+625 : 0.883476250 = 312.528066250 (195625)
+626 : 0.297689812 = 312.825756062 (196251)
+627 : 0.711903374 = 313.537659436 (196878)
+628 : 0.126116936 = 313.663776372 (197506)
+629 : 0.540330498 = 314.204106870 (198135)
+630 : 0.954544060 = 315.158650930 (198765)
+631 : 0.368757622 = 315.527408552 (199396)
+632 : 0.782971184 = 316.310379736 (200028)
+633 : 0.197184746 = 316.507564482 (200661)
+634 : 0.611398308 = 317.118962790 (201295)
+635 : 0.025611870 = 317.144574660 (201930)
+636 : 0.439825432 = 317.584400092 (202566)
+637 : 0.854038994 = 318.438439086 (203203)
+638 : 0.268252556 = 318.706691642 (203841)
+639 : 0.682466118 = 319.389157760 (204480)
+640 : 0.096679680 = 319.485837440 (205120)
+641 : 0.510893242 = 319.996730682 (205761)
+642 : 0.925106804 = 320.921837486 (206403)
+643 : 0.339320366 = 321.261157852 (207046)
+644 : 0.753533928 = 322.014691780 (207690)
+645 : 0.167747490 = 322.182439270 (208335)
+646 : 0.581961052 = 322.764400322 (208981)
+647 : 0.996174614 = 323.760574936 (209628)
+648 : 0.410388176 = 324.170963112 (210276)
+649 : 0.824601738 = 324.995564850 (210925)
+650 : 0.238815300 = 325.234380150 (211575)
+651 : 0.653028862 = 325.887409012 (212226)
+652 : 0.067242424 = 325.954651436 (212878)
+653 : 0.481455986 = 326.436107422 (213531)
+654 : 0.895669548 = 327.331776970 (214185)
+655 : 0.309883110 = 327.641660080 (214840)
+656 : 0.724096672 = 328.365756752 (215496)
+657 : 0.138310234 = 328.504066986 (216153)
+658 : 0.552523796 = 329.056590782 (216811)
+659 : 0.966737358 = 330.023328140 (217470)
+660 : 0.380950920 = 330.404279060 (218130)
+661 : 0.795164482 = 331.199443542 (218791)
+662 : 0.209378044 = 331.408821586 (219453)
+663 : 0.623591606 = 332.032413192 (220116)
+664 : 0.037805168 = 332.070218360 (220780)
+665 : 0.452018730 = 332.522237090 (221445)
+666 : 0.866232292 = 333.388469382 (222111)
+667 : 0.280445854 = 333.668915236 (222778)
+668 : 0.694659416 = 334.363574652 (223446)
+669 : 0.108872978 = 334.472447630 (224115)
+670 : 0.523086540 = 334.995534170 (224785)
+671 : 0.937300102 = 335.932834272 (225456)
+672 : 0.351513664 = 336.284347936 (226128)
+673 : 0.765727226 = 337.050075162 (226801)
+674 : 0.179940788 = 337.230015950 (227475)
+675 : 0.594154350 = 337.824170300 (228150)
+676 : 0.008367912 = 337.832538212 (228826)
+677 : 0.422581474 = 338.255119686 (229503)
+678 : 0.836795036 = 339.091914722 (230181)
+679 : 0.251008598 = 339.342923320 (230860)
+680 : 0.665222160 = 340.008145480 (231540)
+681 : 0.079435722 = 340.087581202 (232221)
+682 : 0.493649284 = 340.581230486 (232903)
+683 : 0.907862846 = 341.489093332 (233586)
+684 : 0.322076408 = 341.811169740 (234270)
+685 : 0.736289970 = 342.547459710 (234955)
+686 : 0.150503532 = 342.697963242 (235641)
+687 : 0.564717094 = 343.262680336 (236328)
+688 : 0.978930656 = 344.241610992 (237016)
+689 : 0.393144218 = 344.634755210 (237705)
+690 : 0.807357780 = 345.442112990 (238395)
+691 : 0.221571342 = 345.663684332 (239086)
+692 : 0.635784904 = 346.299469236 (239778)
+693 : 0.049998466 = 346.349467702 (240471)
+694 : 0.464212028 = 346.813679730 (241165)
+695 : 0.878425590 = 347.692105320 (241860)
+696 : 0.292639152 = 347.984744472 (242556)
+697 : 0.706852714 = 348.691597186 (243253)
+698 : 0.121066276 = 348.812663462 (243951)
+699 : 0.535279838 = 349.347943300 (244650)
+700 : 0.949493400 = 350.297436700 (245350)
+701 : 0.363706962 = 350.661143662 (246051)
+702 : 0.777920524 = 351.439064186 (246753)
+703 : 0.192134086 = 351.631198272 (247456)
+704 : 0.606347648 = 352.237545920 (248160)
+705 : 0.020561210 = 352.258107130 (248865)
+706 : 0.434774772 = 352.692881902 (249571)
+707 : 0.848988334 = 353.541870236 (250278)
+708 : 0.263201896 = 353.805072132 (250986)
+709 : 0.677415458 = 354.482487590 (251695)
+710 : 0.091629020 = 354.574116610 (252405)
+711 : 0.505842582 = 355.079959192 (253116)
+712 : 0.920056144 = 356.000015336 (253828)
+713 : 0.334269706 = 356.334285042 (254541)
+714 : 0.748483268 = 357.082768310 (255255)
+715 : 0.162696830 = 357.245465140 (255970)
+716 : 0.576910392 = 357.822375532 (256686)
+717 : 0.991123954 = 358.813499486 (257403)
+718 : 0.405337516 = 359.218837002 (258121)
+719 : 0.819551078 = 360.038388080 (258840)
+720 : 0.233764640 = 360.272152720 (259560)
+721 : 0.647978202 = 360.920130922 (260281)
+722 : 0.062191764 = 360.982322686 (261003)
+723 : 0.476405326 = 361.458728012 (261726)
+724 : 0.890618888 = 362.349346900 (262450)
+725 : 0.304832450 = 362.654179350 (263175)
+726 : 0.719046012 = 363.373225362 (263901)
+727 : 0.133259574 = 363.506484936 (264628)
+728 : 0.547473136 = 364.053958072 (265356)
+729 : 0.961686698 = 365.015644770 (266085)
+730 : 0.375900260 = 365.391545030 (266815)
+731 : 0.790113822 = 366.181658852 (267546)
+732 : 0.204327384 = 366.385986236 (268278)
+733 : 0.618540946 = 367.004527182 (269011)
+734 : 0.032754508 = 367.037281690 (269745)
+735 : 0.446968070 = 367.484249760 (270480)
+736 : 0.861181632 = 368.345431392 (271216)
+737 : 0.275395194 = 368.620826586 (271953)
+738 : 0.689608756 = 369.310435342 (272691)
+739 : 0.103822318 = 369.414257660 (273430)
+740 : 0.518035880 = 369.932293540 (274170)
+741 : 0.932249442 = 370.864542982 (274911)
+742 : 0.346463004 = 371.211005986 (275653)
+743 : 0.760676566 = 371.971682552 (276396)
+744 : 0.174890128 = 372.146572680 (277140)
+745 : 0.589103690 = 372.735676370 (277885)
+746 : 0.003317252 = 372.738993622 (278631)
+747 : 0.417530814 = 373.156524436 (279378)
+748 : 0.831744376 = 373.988268812 (280126)
+749 : 0.245957938 = 374.234226750 (280875)
+750 : 0.660171500 = 374.894398250 (281625)
+751 : 0.074385062 = 374.968783312 (282376)
+752 : 0.488598624 = 375.457381936 (283128)
+753 : 0.902812186 = 376.360194122 (283881)
+754 : 0.317025748 = 376.677219870 (284635)
+755 : 0.731239310 = 377.408459180 (285390)
+756 : 0.145452872 = 377.553912052 (286146)
+757 : 0.559666434 = 378.113578486 (286903)
+758 : 0.973879996 = 379.087458482 (287661)
+759 : 0.388093558 = 379.475552040 (288420)
+760 : 0.802307120 = 380.277859160 (289180)
+761 : 0.216520682 = 380.494379842 (289941)
+762 : 0.630734244 = 381.125114086 (290703)
+763 : 0.044947806 = 381.170061892 (291466)
+764 : 0.459161368 = 381.629223260 (292230)
+765 : 0.873374930 = 382.502598190 (292995)
+766 : 0.287588492 = 382.790186682 (293761)
+767 : 0.701802054 = 383.491988736 (294528)
+768 : 0.116015616 = 383.608004352 (295296)
+769 : 0.530229178 = 384.138233530 (296065)
+770 : 0.944442740 = 385.082676270 (296835)
+771 : 0.358656302 = 385.441332572 (297606)
+772 : 0.772869864 = 386.214202436 (298378)
+773 : 0.187083426 = 386.401285862 (299151)
+774 : 0.601296988 = 387.002582850 (299925)
+775 : 0.015510550 = 387.018093400 (300700)
+776 : 0.429724112 = 387.447817512 (301476)
+777 : 0.843937674 = 388.291755186 (302253)
+778 : 0.258151236 = 388.549906422 (303031)
+779 : 0.672364798 = 389.222271220 (303810)
+780 : 0.086578360 = 389.308849580 (304590)
+781 : 0.500791922 = 389.809641502 (305371)
+782 : 0.915005484 = 390.724646986 (306153)
+783 : 0.329219046 = 391.053866032 (306936)
+784 : 0.743432608 = 391.797298640 (307720)
+785 : 0.157646170 = 391.954944810 (308505)
+786 : 0.571859732 = 392.526804542 (309291)
+787 : 0.986073294 = 393.512877836 (310078)
+788 : 0.400286856 = 393.913164692 (310866)
+789 : 0.814500418 = 394.727665110 (311655)
+790 : 0.228713980 = 394.956379090 (312445)
+791 : 0.642927542 = 395.599306632 (313236)
+792 : 0.057141104 = 395.656447736 (314028)
+793 : 0.471354666 = 396.127802402 (314821)
+794 : 0.885568228 = 397.013370630 (315615)
+795 : 0.299781790 = 397.313152420 (316410)
+796 : 0.713995352 = 398.027147772 (317206)
+797 : 0.128208914 = 398.155356686 (318003)
+798 : 0.542422476 = 398.697779162 (318801)
+799 : 0.956636038 = 399.654415200 (319600)
+800 : 0.370849600 = 400.025264800 (320400)
+801 : 0.785063162 = 400.810327962 (321201)
+802 : 0.199276724 = 401.009604686 (322003)
+803 : 0.613490286 = 401.623094972 (322806)
+804 : 0.027703848 = 401.650798820 (323610)
+805 : 0.441917410 = 402.092716230 (324415)
+806 : 0.856130972 = 402.948847202 (325221)
+807 : 0.270344534 = 403.219191736 (326028)
+808 : 0.684558096 = 403.903749832 (326836)
+809 : 0.098771658 = 404.002521490 (327645)
+810 : 0.512985220 = 404.515506710 (328455)
+811 : 0.927198782 = 405.442705492 (329266)
+812 : 0.341412344 = 405.784117836 (330078)
+813 : 0.755625906 = 406.539743742 (330891)
+814 : 0.169839468 = 406.709583210 (331705)
+815 : 0.584053030 = 407.293636240 (332520)
+816 : 0.998266592 = 408.291902832 (333336)
+817 : 0.412480154 = 408.704382986 (334153)
+818 : 0.826693716 = 409.531076702 (334971)
+819 : 0.240907278 = 409.771983980 (335790)
+820 : 0.655120840 = 410.427104820 (336610)
+821 : 0.069334402 = 410.496439222 (337431)
+822 : 0.483547964 = 410.979987186 (338253)
+823 : 0.897761526 = 411.877748712 (339076)
+824 : 0.311975088 = 412.189723800 (339900)
+825 : 0.726188650 = 412.915912450 (340725)
+826 : 0.140402212 = 413.056314662 (341551)
+827 : 0.554615774 = 413.610930436 (342378)
+828 : 0.968829336 = 414.579759772 (343206)
+829 : 0.383042898 = 414.962802670 (344035)
+830 : 0.797256460 = 415.760059130 (344865)
+831 : 0.211470022 = 415.971529152 (345696)
+832 : 0.625683584 = 416.597212736 (346528)
+833 : 0.039897146 = 416.637109882 (347361)
+834 : 0.454110708 = 417.091220590 (348195)
+835 : 0.868324270 = 417.959544860 (349030)
+836 : 0.282537832 = 418.242082692 (349866)
+837 : 0.696751394 = 418.938834086 (350703)
+838 : 0.110964956 = 419.049799042 (351541)
+839 : 0.525178518 = 419.574977560 (352380)
+840 : 0.939392080 = 420.514369640 (353220)
+841 : 0.353605642 = 420.867975282 (354061)
+842 : 0.767819204 = 421.635794486 (354903)
+843 : 0.182032766 = 421.817827252 (355746)
+844 : 0.596246328 = 422.414073580 (356590)
+845 : 0.010459890 = 422.424533470 (357435)
+846 : 0.424673452 = 422.849206922 (358281)
+847 : 0.838887014 = 423.688093936 (359128)
+848 : 0.253100576 = 423.941194512 (359976)
+849 : 0.667314138 = 424.608508650 (360825)
+850 : 0.081527700 = 424.690036350 (361675)
+851 : 0.495741262 = 425.185777612 (362526)
+852 : 0.909954824 = 426.095732436 (363378)
+853 : 0.324168386 = 426.419900822 (364231)
+854 : 0.738381948 = 427.158282770 (365085)
+855 : 0.152595510 = 427.310878280 (365940)
+856 : 0.566809072 = 427.877687352 (366796)
+857 : 0.981022634 = 428.858709986 (367653)
+858 : 0.395236196 = 429.253946182 (368511)
+859 : 0.809449758 = 430.063395940 (369370)
+860 : 0.223663320 = 430.287059260 (370230)
+861 : 0.637876882 = 430.924936142 (371091)
+862 : 0.052090444 = 430.977026586 (371953)
+863 : 0.466304006 = 431.443330592 (372816)
+864 : 0.880517568 = 432.323848160 (373680)
+865 : 0.294731130 = 432.618579290 (374545)
+866 : 0.708944692 = 433.327523982 (375411)
+867 : 0.123158254 = 433.450682236 (376278)
+868 : 0.537371816 = 433.988054052 (377146)
+869 : 0.951585378 = 434.939639430 (378015)
+870 : 0.365798940 = 435.305438370 (378885)
+871 : 0.780012502 = 436.085450872 (379756)
+872 : 0.194226064 = 436.279676936 (380628)
+873 : 0.608439626 = 436.888116562 (381501)
+874 : 0.022653188 = 436.910769750 (382375)
+875 : 0.436866750 = 437.347636500 (383250)
+876 : 0.851080312 = 438.198716812 (384126)
+877 : 0.265293874 = 438.464010686 (385003)
+878 : 0.679507436 = 439.143518122 (385881)
+879 : 0.093720998 = 439.237239120 (386760)
+880 : 0.507934560 = 439.745173680 (387640)
+881 : 0.922148122 = 440.667321802 (388521)
+882 : 0.336361684 = 441.003683486 (389403)
+883 : 0.750575246 = 441.754258732 (390286)
+884 : 0.164788808 = 441.919047540 (391170)
+885 : 0.579002370 = 442.498049910 (392055)
+886 : 0.993215932 = 443.491265842 (392941)
+887 : 0.407429494 = 443.898695336 (393828)
+888 : 0.821643056 = 444.720338392 (394716)
+889 : 0.235856618 = 444.956195010 (395605)
+890 : 0.650070180 = 445.606265190 (396495)
+891 : 0.064283742 = 445.670548932 (397386)
+892 : 0.478497304 = 446.149046236 (398278)
+893 : 0.892710866 = 447.041757102 (399171)
+894 : 0.306924428 = 447.348681530 (400065)
+895 : 0.721137990 = 448.069819520 (400960)
+896 : 0.135351552 = 448.205171072 (401856)
+897 : 0.549565114 = 448.754736186 (402753)
+898 : 0.963778676 = 449.718514862 (403651)
+899 : 0.377992238 = 450.096507100 (404550)
+900 : 0.792205800 = 450.888712900 (405450)
+901 : 0.206419362 = 451.095132262 (406351)
+902 : 0.620632924 = 451.715765186 (407253)
+903 : 0.034846486 = 451.750611672 (408156)
+904 : 0.449060048 = 452.199671720 (409060)
+905 : 0.863273610 = 453.062945330 (409965)
+906 : 0.277487172 = 453.340432502 (410871)
+907 : 0.691700734 = 454.032133236 (411778)
+908 : 0.105914296 = 454.138047532 (412686)
+909 : 0.520127858 = 454.658175390 (413595)
+910 : 0.934341420 = 455.592516810 (414505)
+911 : 0.348554982 = 455.941071792 (415416)
+912 : 0.762768544 = 456.703840336 (416328)
+913 : 0.176982106 = 456.880822442 (417241)
+914 : 0.591195668 = 457.472018110 (418155)
+915 : 0.005409230 = 457.477427340 (419070)
+916 : 0.419622792 = 457.897050132 (419986)
+917 : 0.833836354 = 458.730886486 (420903)
+918 : 0.248049916 = 458.978936402 (421821)
+919 : 0.662263478 = 459.641199880 (422740)
+920 : 0.076477040 = 459.717676920 (423660)
+921 : 0.490690602 = 460.208367522 (424581)
+922 : 0.904904164 = 461.113271686 (425503)
+923 : 0.319117726 = 461.432389412 (426426)
+924 : 0.733331288 = 462.165720700 (427350)
+925 : 0.147544850 = 462.313265550 (428275)
+926 : 0.561758412 = 462.875023962 (429201)
+927 : 0.975971974 = 463.850995936 (430128)
+928 : 0.390185536 = 464.241181472 (431056)
+929 : 0.804399098 = 465.045580570 (431985)
+930 : 0.218612660 = 465.264193230 (432915)
+931 : 0.632826222 = 465.897019452 (433846)
+932 : 0.047039784 = 465.944059236 (434778)
+933 : 0.461253346 = 466.405312582 (435711)
+934 : 0.875466908 = 467.280779490 (436645)
+935 : 0.289680470 = 467.570459960 (437580)
+936 : 0.703894032 = 468.274353992 (438516)
+937 : 0.118107594 = 468.392461586 (439453)
+938 : 0.532321156 = 468.924782742 (440391)
+939 : 0.946534718 = 469.871317460 (441330)
+940 : 0.360748280 = 470.232065740 (442270)
+941 : 0.774961842 = 471.007027582 (443211)
+942 : 0.189175404 = 471.196202986 (444153)
+943 : 0.603388966 = 471.799591952 (445096)
+944 : 0.017602528 = 471.817194480 (446040)
+945 : 0.431816090 = 472.249010570 (446985)
+946 : 0.846029652 = 473.095040222 (447931)
+947 : 0.260243214 = 473.355283436 (448878)
+948 : 0.674456776 = 474.029740212 (449826)
+949 : 0.088670338 = 474.118410550 (450775)
+950 : 0.502883900 = 474.621294450 (451725)
+951 : 0.917097462 = 475.538391912 (452676)
+952 : 0.331311024 = 475.869702936 (453628)
+953 : 0.745524586 = 476.615227522 (454581)
+954 : 0.159738148 = 476.774965670 (455535)
+955 : 0.573951710 = 477.348917380 (456490)
+956 : 0.988165272 = 478.337082652 (457446)
+957 : 0.402378834 = 478.739461486 (458403)
+958 : 0.816592396 = 479.556053882 (459361)
+959 : 0.230805958 = 479.786859840 (460320)
+960 : 0.645019520 = 480.431879360 (461280)
+961 : 0.059233082 = 480.491112442 (462241)
+962 : 0.473446644 = 480.964559086 (463203)
+963 : 0.887660206 = 481.852219292 (464166)
+964 : 0.301873768 = 482.154093060 (465130)
+965 : 0.716087330 = 482.870180390 (466095)
+966 : 0.130300892 = 483.000481282 (467061)
+967 : 0.544514454 = 483.544995736 (468028)
+968 : 0.958728016 = 484.503723752 (468996)
+969 : 0.372941578 = 484.876665330 (469965)
+970 : 0.787155140 = 485.663820470 (470935)
+971 : 0.201368702 = 485.865189172 (471906)
+972 : 0.615582264 = 486.480771436 (472878)
+973 : 0.029795826 = 486.510567262 (473851)
+974 : 0.444009388 = 486.954576650 (474825)
+975 : 0.858222950 = 487.812799600 (475800)
+976 : 0.272436512 = 488.085236112 (476776)
+977 : 0.686650074 = 488.771886186 (477753)
+978 : 0.100863636 = 488.872749822 (478731)
+979 : 0.515077198 = 489.387827020 (479710)
+980 : 0.929290760 = 490.317117780 (480690)
+981 : 0.343504322 = 490.660622102 (481671)
+982 : 0.757717884 = 491.418339986 (482653)
+983 : 0.171931446 = 491.590271432 (483636)
+984 : 0.586145008 = 492.176416440 (484620)
+985 : 0.000358570 = 492.176775010 (485605)
+986 : 0.414572132 = 492.591347142 (486591)
+987 : 0.828785694 = 493.420132836 (487578)
+988 : 0.242999256 = 493.663132092 (488566)
+989 : 0.657212818 = 494.320344910 (489555)
+990 : 0.071426380 = 494.391771290 (490545)
+991 : 0.485639942 = 494.877411232 (491536)
+992 : 0.899853504 = 495.777264736 (492528)
+993 : 0.314067066 = 496.091331802 (493521)
+994 : 0.728280628 = 496.819612430 (494515)
+995 : 0.142494190 = 496.962106620 (495510)
+996 : 0.556707752 = 497.518814372 (496506)
+997 : 0.970921314 = 498.489735686 (497503)
+998 : 0.385134876 = 498.874870562 (498501)
+999 : 0.799348438 = 499.674219000 (499500)
+1000 : 0.213562000 = 499.887781000 (500500)
+1001 : 0.627775562 = 500.515556562 (501501)

@@ -1,0 +1,453 @@
+foobar:~/ ivan.penev91$ help
+
+Use the following shell commands:
+
+    cd change directory [dir_name]
+    cat print file [file_name]
+    deleteme delete all of your data associated with foobar
+    edit open file in editor [file_name]
+    feedback Provide feedback on foobar
+    less print a file a page at a time [file_name]
+    ls list directory contents [dir_name]
+    request request new challenge
+    status print progress
+    submit submit final solution file for assessment [file_name]
+    verify runs tests on solution file [file_name]
+
+
+Keyboard help:
+
+    Ctrl + Ssave the open file [when editor is focused]
+    Ctrl + Eclose the editor [when editor is focused]
+
+
+Toggle between the editor and terminal using ESC followed by TAB, then activate with ENTER.
+
+----------------------------------------------------------------------------------------------------
+foobar:~/ ivan.penev91$ request
+You are about to begin a TIME-LIMITED challenge. You will have 7 days to complete each newly requested challenge or LOSE ACCESS to this site.
+Do you wish to proceed and start the timer on your first challenge?
+[Y]es or [N]o: Y
+Requesting challenge...
+Next time Bunny HQ needs someone to infiltrate a space station to rescue bunny workers, you're going to tell them to make sure 'stay up for 48 hours straight scrubbing toilets' is part of the job description. It's only fair to warn people, after all.
+New challenge "Minion Work Assignments" added to your home folder.
+Time to solve: 168 hours.
+----------------------------------------------------------------------------------------------------
+
+foobar:~/minion-work-assignments ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+You survived a week in Commander Lambda's organization, and you even managed to get yourself promoted. Hooray! Henchmen still don't have the kind of security access you'll need to take down Commander Lambda, though, so you'd better keep working. Chop chop!
+Submission: SUCCESSFUL. Completed in: 2 hrs, 28 mins, 40 secs.
+
+Level 1 complete
+You are now on level 2
+Challenges left to complete level: 2
+
+Level 1: 100% [==========================================]
+Level 2:   0% [..........................................]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+You got the bunny trainers to teach you a card game today, it's called Fizzbin. It's kind of pointless, but they seem to like it and it helps you pass the time while you work your way up to Commander Lambda's inner circle.
+New challenge "Numbers Station Coded Messages" added to your home folder.
+Time to solve: 168 hours.
+----------------------------------------------------------------------------------------------------
+
+foobar:~/numbers-station-coded-messages ivan.penev91$ verify Solution.java 
+Verifying solution...
+All test cases passed. Use submit Solution.java to submit your solution
+foobar:~/numbers-station-coded-messages ivan.penev91$ submit solution.py 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: N
+foobar:~/numbers-station-coded-messages ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 1 hr, 10 mins, 44 secs.
+
+Current level: 2
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2:  50% [=====================.....................]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+At least all this time spent running errands all over Commander Lambda's space station have given you a really good understanding of the station's layout. You'll need that when you're finally ready to destroy the LAMBCHOP and rescue the bunny workers.
+New challenge "En Route Salute" added to your home folder.
+Time to solve: 168 hours.
+----------------------------------------------------------------------------------------------------
+
+foobar:~/en-route-salute ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Awesome! Commander Lambda was so impressed by your efforts that you've been promoted to personal assistant. You'll be helping the Commander directly, which means you'll have access to all of Lambda's files -- including the ones on the LAMBCHOP doomsday device. This is the chance you've been waiting for. Can you use your new access to finally topple Commander Lambda's evil empire?
+Submission: SUCCESSFUL. Completed in: 1 hr, 15 mins, 3 secs.
+
+Level 2 complete
+You are now on level 3
+Challenges left to complete level: 3
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=JK2LI" (Unused)
+
+Type request to request a new challenge now, or come back later.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
+New challenge "Find the Access Codes" added to your home folder.
+Time to solve: 168 hours.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/find-the-access-codes ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 1 hr, 44 mins, 3 secs.
+
+Current level: 3
+Challenges left to complete level: 2
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3:  33% [=============.............................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+Who the heck puts clover and coffee creamer in their tea? Commander Lambda, apparently. When you signed up to infiltrate the organization you didn't think you'd get such an up-close and personal look at these more... unusual tastes.
+New challenge "The Grandest Staircase Of Them All" added to your home folder.
+Time to solve: 168 hours.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/the-grandest-staircase-of-them-all ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 1 day, 6 hrs, 5 mins, 45 secs.
+
+Current level: 3
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3:  66% [===========================...............]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+Commander Lambda has six suits, three dress uniforms, four casual outfits, and one Dress-Uniform-For-Important-Speeches-Only. You know this because you've already had to take all of them to the dry cleaner's. Twice!
+New challenge "Bomb, Baby!" added to your home folder.
+Time to solve: 168 hours.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/bomb-baby ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's one small problem: the LAMBCHOP was a wool-y important part of the space station, and when you blew it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the bunny workers and escape before the entire thing explodes?
+Submission: SUCCESSFUL. Completed in: 8 hrs, 30 mins, 10 secs.
+
+Level 3 complete
+You are now on level 4
+Challenges left to complete level: 2
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3: 100% [==========================================]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=JK2LI" (Unused)
+
+Type request to request a new challenge now, or come back later.
+
+The code is strong with this one...
+You can now share your solutions with a Google recruiter!
+If you opt in, Google Staffing may reach out to you regarding career opportunities, events, and programs.
+We will use your information in accordance with our Applicant and Candidate Privacy Policy.
+[#1] [Yes [N]o [A]sk me later:]
+[Y]es [N]o [A]sk me later: Y
+Please tell us a bit about yourself to help us connect you with the right recruiter. By answering these questions you agree to our Application and Candidate Privacy Policy
+[#2] First name:Ivan
+[#3] Last name:Penev
+[#4] Email:ivan.penev91@gmail.com
+Use tab key twice to see list of available country/region choices.
+[#5] Country/Region:Bulgaria 
+[#6] Phone number:+359883375591
+[#7] Optional: Other helpful links (i.e. CV, LinkedIn, GitHub):LinkedIn - https://www.linkedin.com/in/ivan-penev-2b923283/ GitHub - https://github.com/ivan-ivanov-penev?tab=repositories 
+Are the above details correct?
+[Y]es or [N]o: Y
+Submitting your response...
+Response saved.
+[#1] Enter current status:
+[1] Student
+[2] Professional
+[3] Faculty or Postdoc
+Enter 1-3: 2
+Are the above details correct?
+[Y]es or [N]o: Y
+Submitting your response...
+Your progress will be shared with a recruiter and you will be contacted if opportunities align with your skill set
+But the challenge is not over yet.
+Request now.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+One of these days you're going to manage to glimpse Commander Lambda's password over their shoulder. But the Commander is very careful about security and you haven't managed it yet...
+New challenge "Bringing a Gun to a Trainer Fight" added to your home folder.
+Time to solve: 360 hours.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/bringing-a-gun-to-a-trainer-fight ivan.penev91$ sutck
+He who foos last foos best!
+sutck: command not found. Type help for a list of commands
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/bringing-a-gun-to-a-trainer-fight ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 5 days, 4 hrs, 47 mins, 34 secs.
+
+Current level: 4
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3: 100% [==========================================]
+Level 4:  50% [=====================.....................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request
+Requesting challenge...
+Not all of the bunny workers are highly-trained operatives. Some of them are civilians, and they're panicking in all the noise and confusion of the space station's destruction. Several of them have wedged themselves into corners and started thumping, which isn't exactly helping the station's structural integrity...
+New challenge "Free the Bunny Workers" added to your home folder.
+Time to solve: 360 hours.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/free-the-bunny-workers ivan.penev91$ edit Solution.java 
+foobar:~/free-the-bunny-workers ivan.penev91$ cat Solution.java 
+public​ ​class​ ​Solution​ ​{
+​ ​​ ​​ ​​ ​public​ ​static​ ​int[][]​ ​(int​ ​num_buns,​ ​int​ ​num_required)​ ​{
+​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​//​ ​Your​ ​code​ ​here
+​ ​​ ​​ ​​ ​}
+}
+
+//////////// basically is the below one
+
+public class Solution {
+    public static int[][] (int num_buns, int num_required) {
+        // Your code here
+    }
+}
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/free-the-bunny-workers ivan.penev91$ feedback
+Feedback running... [Press Ctrl+C to cancel]
+[#1] What type of feedback are you reporting?
+[B]ug [F]eature [O]ther: B
+[#2] Feedback[338]:On level 4 the second task the "Solution.java" file has a method inside it which lacks a name and hence it doesn't compile. So far the name has been "solution()".
+Are the above details correct?
+[Y]es or [N]o: Y
+Submitting your feedback...
+Feedback submitted. Thank you.
+foobar:~/free-the-bunny-workers ivan.penev91$ ls
+Solution.java
+constraints.txt
+readme.txt
+solution.py
+foobar:~/free-the-bunny-workers ivan.penev91$ cat solution.py 
+def​ ​solution(num_buns,​ ​num_required):
+​ ​​ ​​ ​​ ​#​ ​Your​ ​code​ ​here
+foobar:~/free-the-bunny-workers ivan.penev91$ cat Solution.java 
+public​ ​class​ ​Solution​ ​{
+​ ​​ ​​ ​​ ​public​ ​static​ ​int[][]​ ​(int​ ​num_buns,​ ​int​ ​num_required)​ ​{
+​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​//​ ​Your​ ​code​ ​here
+​ ​​ ​​ ​​ ​}
+}
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ hintme
+Scram gravy ain't wavey!
+hintme: command not found. Type help for a list of commands
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/free-the-bunny-workers ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+Oh no! You escaped Commander Lambda's exploding space station -- but so did the Commander, and Lambda is definitely not happy with you. Lambda is chasing you in a heavily-armed starfighter, while you and the bunny workers are stuck in these lumbering escape pods. It'll take all your wits and cleverness to escape such a hare-y situation, so you'd better hop to it!
+Submission: SUCCESSFUL. Completed in: 3 days, 6 hrs, 7 mins, 15 secs.
+
+Level 4 complete
+You are now on level 5
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3: 100% [==========================================]
+Level 4: 100% [==========================================]
+Level 5:   0% [..........................................]
+
+It's dangerous to go alone! To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=3XEd7" (Unused)
+Refer a friend: "https://foobar.withgoogle.com/?eid=JK2LI" (Unused)
+
+Type request to request a new challenge now, or come back later.
+
+----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ request 
+Requesting challenge...
+It's not regulation, but you think if you can bypass the compressor, you can squeeze a few extra bursts of speed out of this escape pod.
+New challenge "Dodge the Lasers!" added to your home folder.
+Time to solve: 528 hours.
+
+----------------------------------------------------------------------------------------------------
+foobar:~/dodge-the-lasers ivan.penev91$ submit Solution.java 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: Y
+Submitting solution...
+With one last roar of the escape pod's engines, you and your bunny companions jump to lightspeed. Congratulations! You've destroyed the LAMBCHOP, relieved the bunnies, gotten Commander Lambda off your tail, and saved the galaxy. Time for a little rest and relaxation back on Bunny Planet. Pat yourself on the back -- you've earned it!
+Submission: SUCCESSFUL. Completed in: 3 days, 23 hrs, 45 mins, 26 secs.
+
+
+
+
+                     /@                                          /@                                              /@
+                    @~/@       @@                               @~/@       @@                                   @~/@       @@
+                   @~~/ %     @$%@                             @~~/ %     @$%@                                 @~~/ %     @$%@
+                   @~(((((% %/////@                            @~(((((% %/////@                                @~(((((% %/////@
+                   @((/////@~//~~@                              @((/////@~//~~@                                 @((/////@~//~~@
+                   @(/// @//////@                               @(/// @//////@                                  @(/// @//////@
+                     @//% @~~~/~@                                 @//% @~~~/~@                                    @//% @~~~/~@
+                    /@$$$ @///~~/@                               /@$$$ @///~~/@                                /@$$$ @///~~/@
+                   @        ////@@                              @        ////@@                                @        ////@@
+                  @$   //@@@((/~ @                             @$   //@@@((/~ @                               @$   //@@@((/~ @
+                @$  //@    @  ((///@                         @$  //@    @  ((///@                           @$  //@    @  ((///@
+                @$      (@@@  ((((//%%@                      @$      (@@@  ((((//%%@                        @$      (@@@  ((((//%%@
+                @                 ((//                       @                 ((//                          @                 ((//
+//@@     //@      @ ~        (((((((((  /%//////@@     //@     @ ~        (((((((((  /%//////@@     //@       @ ~        (((((((((  /%///
+~~~~/   /@$         @~                 %  ~~~~~~~~/   /@$        @~                 %  ~~~~~~~~/   /@$         @~                 %  ~~~~
+////////$               @@/$             ~~~~~////////$              @@/$             ~~~~~////////$                @@/$             ~~~~
+~~~~~~///@                //@@@%%/~~      ~~~~~~~~~~///@               //@@@%%/~~      ~~~~~~~~~~///@                 //@@@%%/~~      ~~~
+~//////@$@@                ~~~          ~~~~~~~//////@$@@               ~~~          ~~~~~~~//////@$@@                 ~~~          ~~~~~
+~~~((((///////@        $$$                   ~~~~((((///////@       $$$                   ~~~~((((///////@        $$$                   ~
+~(////////(($@       $~~~~ %%%   /         ~~~~(////////(($@      $~~~~ %%%   /         ~~~~(////////(($@       $~~~~ %%%   /         ~~~
+~~~((((((%%%@       @$$~~ @   $$/            ~~~~((((((%%%@      @$$~~ @   $$/            ~~~~((((((%%%@       @$$~~ @   $$/            ~
+((((((%%%%%@        \\@@@@                   (((((((%%%%%@       \\@@@@                   (((((((%%%%%@        \\@@@@                   (
+$$$$$$$$@                                    $$$$$$$$$@                                   $$$$$$$$$@                                   $$
+%%%%%%@                                    $$$%%%%%%@                                  $$$%%%%%%@                                   $$$%%
+%%%%%@                                   $$%%%%%%%%@                                  $$%%%%%%%%@                                  $$%%%%
+%%%%@                             @ ///   $$%%%%%%@                            @ ///   $$%%%%%%@                            @ ///   $$%%%
+@@@@                            @////        @@@@@                           @////        @@@@@                           @////        @@
+@@                                @////@@@@@@@@@                              @////@@@@@@@@@                               @////@@@@@@@@@
+
+
+<encrypted>
+ElESG00TAB0WURkLSVEGHEsREUlJVh5SBhoNC08XEAtCVgMRThMSGksVCAsBURURThMHCEECER1C VgMRTh8PDVwVAQcHGlwWRVZGD00YDAsTE1RUBwJGThRQQhsLGlZSAhMFSQJQQhwEFFtYHQVGThRQ Qh0EEFwWRVZGCEEfQk5fVh5GABhASVM= </encrypted>
+
+For your eyes only!
+
+Use the status command to repeat this message.
+
+You've completed all the challenges!
+If you'd like to know when more challenges are added, let us know your email address below.
+We will use your information in accordance with Google's Privacy Policy.
+[#1] Would you like to be notified when a new set of challenges are available to play?
+[Y]es [N]o: Y
+[#2] Email:ivan.penev91@gmail.com
+Are the above details correct?
+[Y]es or [N]o: Y
+Submitting your response...
+Great! We'll let you know when a new set of challenges are ready for you.
+foobar:~/ ivan.penev91$ 
+
+-----------------------------------------------------------------------------------------------------
+
+foobar:~/ ivan.penev91$ status
+You've completed all the levels!!
+
+
+<encrypted>
+ElESG00TAB0WURkLSVEGHEsREUlJVh5SBhoNC08XEAtCVgMRThMSGksVCAsBURURThMHCEECER1C VgMRTh8PDVwVAQcHGlwWRVZGD00YDAsTE1RUBwJGThRQQhsLGlZSAhMFSQJQQhwEFFtYHQVGThRQ Qh0EEFwWRVZGCEEfQk5fVh5GABhASVM= </encrypted>
+
+For your eyes only!
+
+Use the status command to repeat this message.
+Refer a friend: "https://foobar.withgoogle.com/?eid=3XEd7" (Unused)
+Refer a friend: "https://foobar.withgoogle.com/?eid=JK2LI" (Unused)
+foobar:~/ ivan.penev91$
+
+----------------------- the above encrypted message but decrypted with python3 --------------------
+
+{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
+
+file:
+-----------------------------------------------------------------------------
+import base64
+
+MESSAGE = '''
+ElESG00TAB0WURkLSVEGHEsREUlJVh5SBhoNC08XEAtCVgMRThMSGksVCAsBURURThMHCEECER1C VgMRTh8PDVwVAQcHGlwWRVZGD00YDAsTE1RUBwJGThRQQhsLGlZSAhMFSQJQQhwEFFtYHQVGThRQ Qh0EEFwWRVZGCEEfQk5fVh5GABhASVM=
+'''
+
+KEY = 'ivan.penev91'
+
+result = []
+for i, c in enumerate(base64.b64decode(MESSAGE)):
+  result.append(chr(c ^ ord(KEY[i % len(KEY)])))
+
+print(''.join(result))
+-----------------------------------------------------------------------------
